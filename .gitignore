@@ -51,4 +51,6 @@ RIB_images/*.jpg
 
 # Keep important config files but ignore sensitive data
 *.env
+.env
 .env.*
+!.env.example
