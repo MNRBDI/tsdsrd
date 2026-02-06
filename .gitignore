@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Models and large files
+*.safetensors
+*.bin
+*.pth
+*.onnx
+*.h5
+
+# Data files
+*.csv
+*.json.bak
+*.json~
+
+# Log files
+*.log
+nohup.out
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+/tmp/
+*.tmp
+*.temp
+
+# Extracted images (large folders)
+extracted_images/
+extracted_photographs/
+RIB_images/*.png
+RIB_images/*.jpg
+
+# Keep important config files but ignore sensitive data
+*.env
+.env.*

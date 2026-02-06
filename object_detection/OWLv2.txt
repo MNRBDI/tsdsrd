@@ -1,0 +1,51 @@
+image path                                                  | correct output                                   | actual output
+/home/amir/Desktop/MRE TSD/RIB_images/page6_img1.png        | subsidence                                       | subsidence
+/home/amir/Desktop/MRE TSD/RIB_images/page15_img1.png       | ligtning smtg                                    | lightning rod
+/home/amir/Desktop/MRE TSD/RIB_images/page30_img1.png       | combustible materials near electrical equipment  | combustible materials near electrical equipment
+
+page 6  betul
+page 15 salah
+
+/home/amir/Desktop/MRE TSD/RIB_images/page30_img1.png
+
+  ✓ 2.3 - Accumulation of Combustible Material at Electrical Board
+    Found 91 indicators
+      1. cardboard near panel (14.40%)
+      2. materials near electrical (20.60%)
+      3. cardboard near panel (32.46%)
+
+  ✓ 3.8 - Combustible Storage Near Control Panels
+    Found 100 indicators
+      1. cardboard near panel (14.40%)
+      2. material near electrical (13.19%)
+      3. cardboard near panel (32.46%)
+
+🎯 PRIMARY RIB SUBSECTION: 3.8 - Combustible Storage Near Control Panels
+   Confidence Score: 18.42
+   Detection Count: 100
+
+📌 OTHER APPLICABLE RIB SUBSECTIONS:
+   • 2.3 - Accumulation of Combustible Material at Electrical Board
+     Score: 18.36 | Detections: 91
+   • 2.7 - Kill Switch
+     Score: 14.30 | Detections: 58
+   • 3.6 - Storage Of Combustible Material
+     Score: 13.96 | Detections: 74
+   • 2.4 - Electrical Board Is Not Properly Closed
+     Score: 12.32 | Detections: 40
+
+     sepatutnya RIB 2.3 instead of 3.8
+
+/home/amir/Desktop/MRE TSD/RIB_images/page30_img2.png
+
+pun sama jugak recommend 3.8 instead of 2.3
+
+page 32 1&2 both betul
+
+page 34 1, recommend subsidence. actual is exposed wiring
+
+/home/amir/Desktop/MRE TSD/RIB_images/page36_img1.png, detect 2.4 which is wrong. correct should be 2.6 burn mark at circuit breaker
+
+page 38, recommend 2.4 (electrical board not closed) but it should be 2.7 (kill switch)
+
+page 44, recommend 1.2 (pipe bursting) but it should be 3.3 (storage of lpg gas cylinder)

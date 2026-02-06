@@ -1,0 +1,12 @@
+# requirements.txt
+psycopg2-binary>=2.9.0
+sentence-transformers>=2.2.0
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.37.0
+accelerate>=0.26.0
+pillow>=10.0.0
+qwen-vl-utils>=0.0.8
+tqdm>=4.65.0
+python-dotenv>=1.0.0
+streamlit>=1.30.0

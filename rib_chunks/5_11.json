@@ -1,0 +1,32 @@
+{
+  "id": "5.11",
+  "category": "Process",
+  "title": "DUST EXTRACTION SYSTEM",
+  "content": "Section 5.11: DUST EXTRACTION SYSTEM\n\nOBSERVATION:\nIt was noted that the environment inside the furniture production area is dusty, which \nindicates that the dust extraction system may not be functioning properly or is poorly \nmaintained .\n\nRECOMMENDATION:\nA dust extraction system is an engineered solution designed to capture, transport, filter, \nand remove dust and airborne particulates generated during industrial processes. It is \nessential in industries such as woodworking, metalworking, food processing, and \nmanufacturing to maintain a clean and safe working environment, prevent health hazards, \nand protect equipment from dust accumulation.  \n \nIt is recommended to conduct a thorough inspection and testing of the dust extraction \nsystem to identify potential malfunctions or maintenance deficiencies. This should include \nchecking the integrity of ductwork, ensuring that the extraction fan is operating at the \ncorrect capacity, and confirming that dust filters are not clogged or damaged. Regular \nmaintenance should be scheduled according to manufacturer recommendations and \nrelevant guidelines such as the MS and DOSH standards. Additionally, monitoring dust \nlevels within the production area using appropriate measuring instruments is advised to \nensure that the dust extraction system maintains air quality within permissible limits. \nProper training for workers on the use and maintenance of the system, as well as periodic \nperformance audits, should also be implemented to sustain the effectiveness of the dust \nextraction system.\n\nREGULATION/GUIDELINE:\nDust extraction systems in industrial settings, including furniture manufacturing, are \ngoverned by various regulations and standards to minimize fire and explosion risks, \nimprove air quality, and ensure worker safety. Furniture manufacturing generates \nsubstantial amounts of fine dust from cutting, sanding, and processing wood, which can \ncreate hazardous conditions if not properly controlled. Key guidelines and standards \naddressing dust extraction systems include:  \n \n1. Occupational Safety and Health Act (OSHA) 1994 (Act 514)  \nThe OSHA  Act 1994  establishes the general duty of employers to ensure a safe working \nenvironment, which includes the control of airborne contaminants such as wood dust.  \nRelevant Sections:  \n• Section 15: General duties of employers to provide and maintain a safe working \nenvironment, including safe air quality.  \n• Section 16: Requirement for a written safety policy where dust extraction systems \nare necessary due to exposure to hazardous materials.  \n• Section 24: General duties of employees to comply with safety measures, \nincluding proper use of dust extraction systems.  \n \nApplication to Dust Extraction:  \n• Employers are required to implement suitable engineering controls, such as local \nexhaust ventilation (LEV), to capture dust at the source.  \n• Employers must regularly inspect and maintain dust extraction systems to ensure \nthey operate effectively.  \n \n 2. Factories and Machinery Act (FMA) 1967 (Act 139)  \nThe FM Act 1967  regulates the design, installation, and maintenance of machinery and \nequipment used in manufacturing facilities, including dust extraction systems.  \nRelevant Regulations:  \n• Section 18: Requires that machinery and systems generating airborne \ncontaminants (such as wood dust) must be equipped with proper ventilation and \nextraction systems.  \n• Safety, Health and Welfare Regulations 1970: Stipulates that dust extraction \nsystems must be installed and maintained to minimize worker exposure to \nhazardous dust.  \nApplication to Dust Extraction:  \n• Dust extraction systems must meet minimum air quality and capture efficiency \nrequirements.  \n• Systems must be capable of controlling the spread of dust to prevent inhalation \nrisks and potential dust explosions.  \n \n3. Malaysian Standard MS 1436: 2017 – Code of Practice for Local Exhaust \nVentilation (LEV)  \nMS 1436  outlines the best practices for the design, installation, operation, and \nmaintenance of local exhaust ventilation (LEV) systems, including dust extraction \nsystems.  \nKey Requirements:  \n• Design Requirements:  \no LEV systems must be designed to capture dust at the source before it \ndisperses into the work environment.  \no Hood design, ductwork, and fan capacity must be properly specified based \non the type and volume of dust generated.  \n• Airflow and Capture Efficiency:  \no Minimum airflow rates and static pressure requirements must be calculated \nbased on the dust particle size and material type.  \no Typical airflow for wood dust extraction is around 20 –30 m/s (metres per \nsecond) at the capture point.  \n• Filtration and Exhaust:  \no Systems should use high -efficiency filters (e.g., HEPA filters) to trap fine \ndust particles.  \no Clean, filtered air should be vented outside the building or recirculated with \nproper filtration.  \n• Inspection and Maintenance:  \no Regular testing (e.g., every 6 months) of airflow, pressure drop, and \ncapture efficiency.  \no Documentation of system performance and any repairs or adjustments \nmade.",
+  "token_count": 1274,
+  "metadata": {
+    "section_number": "5.11",
+    "section_title": "DUST EXTRACTION SYSTEM",
+    "category": "Process",
+    "regulations": [
+      "Section 15: General duties of employers to provide and maintain a safe working",
+      "Section 18: Requires that machinery and systems generating airborne",
+      "OSHA  Act 1994  establishes the general duty of employers to ensure a safe working",
+      "Section 16: Requirement for a written safety policy where dust extraction systems",
+      "Section 24: General duties of employees to comply with safety measures,"
+    ],
+    "keywords": [
+      "safety",
+      "explosion",
+      "code",
+      "fire",
+      "monitoring",
+      "regulation",
+      "inspection",
+      "standard",
+      "maintenance",
+      "testing"
+    ],
+    "risk_type": "fire"
+  }
+}

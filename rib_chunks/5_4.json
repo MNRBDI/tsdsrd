@@ -1,0 +1,26 @@
+{
+  "id": "5.4",
+  "category": "Process",
+  "title": "LABELLING OF PIPES AND TUBES",
+  "content": "Section 5.4: LABELLING OF PIPES AND TUBES\n\nOBSERVATION:\nHazardous materials flow through various piping  in many industrial, commercial and \ninstitutional facilities.  Just like hazardous materials in other situations, piping systems \nshould be appropriately labelled to make people aware of the materials they carry.\n\nRECOMMENDATION:\nIn industrial, commercial, and institutional facilities, it is essential to clearly label pipes and \ntubes that carry hazardous materials to ensure the safety of employees, contractors, and \nvisitors. Proper labelling reduces the risk of accidents, injuries, and operational disruptions \nby providing critical information about the contents, flow direction, and potential hazards \nassociated with the piping systems.  \n \nPurpose and Benefits:  \n- Enhanced Safety: Proper labelling prevents accidental exposure to hazardous \nmaterials, including toxic, flammable, or corrosive substances. It also reduces the \nlikelihood of injury during routine operations or emergencies.  \n- Informed Decision -Making: Clear labelling allows maintenance personnel and \nemergency responders to identify and handle hazardous materials appropriately, \nmitigating confusion during time -sensitive situations.  \n- Compliance: Labelling ensures adherence to applicable safety standards and\n\nREGULATION/GUIDELINE:\n1. Control of Industrial Major Accident Hazards Regulations (CIMAH 1996)  \nPurpose of CIMAH 1996  \nThe Control of Industrial Major Accident Hazards Regulations focuses on preventing and \nmitigating the effects of major accidents involving hazardous materials. Facilities handling \nsignificant quantities of hazardous substances are required to take preventive measures \nto avoid accidents.  \n \nKey Provisions Relevant to Pipe Labelling:  \nDemonstration of safe operation  (Regulation 10): \nEmployers must identify all hazards associated with the materials stored, transported, or processed, including those within piping systems. Proper labelling helps in identifying \nthese hazards clearly.  \n \nColor -coding piping systems  based on the materials they transport is essential for \nensuring workplace safety and regulatory compliance. Several standards and guidelines \nprovide rules for identifying pipe contents through colours , labels, and markings. Here’s an \noverview of the relevant regulations and standards:  \n \n2. ANSI/ASME A13.1: Scheme for the Identification of Piping Systems  \n \nColor -coding piping systems  based on the materials they transport is essential for \nensuring workplace safety and regulatory compliance. Several standards and guidelines \nprovide rules for identifying pipe contents through colours , labels, and markings.  \n \nThis widely recognized standard provides a comprehensive system for the color -coding of \npipes to identify their contents and associated hazards.  This ANSI/ASME A13.1 ensures \nthat piping systems are consistently identified across industries, promoting safety and \nefficient communication.  \n \nKey Provisions:  \nColour  Coding: Specific colours  are assigned to different categories of materials:  \n \nYellow/Black: Flammable or combustible fluids (e.g., gasoline, oil, natural gas).  \nGreen/White: Water (e.g., potable water, cooling water).  \nBlue/White: Compressed air.  \nRed/White: Fire suppression materials (e.g., fire water, sprinkler systems).  \nOrange/Black: Toxic and corrosive substances.  \nBrown/White: Combustible fluids.  \nGray/White: Steam.  \n \nLabelling : Text legends accompany the colour  coding to provide additional information \nabout the pipe contents.  \nFlow Direction Arrows: Indicate the direction of material flow.",
+  "token_count": 904,
+  "metadata": {
+    "section_number": "5.4",
+    "section_title": "LABELLING OF PIPES AND TUBES",
+    "category": "Process",
+    "regulations": [],
+    "keywords": [
+      "safety",
+      "explosion",
+      "risk",
+      "emergency",
+      "chemical",
+      "fire",
+      "compliance",
+      "regulation",
+      "standard",
+      "maintenance"
+    ],
+    "risk_type": "fire"
+  }
+}

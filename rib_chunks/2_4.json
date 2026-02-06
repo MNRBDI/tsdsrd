@@ -1,0 +1,26 @@
+{
+  "id": "2.4",
+  "category": "Electrical",
+  "title": "ELECTRICAL BOARD IS NOT PROPERLY CLOSED",
+  "content": "Section 2.4: ELECTRICAL BOARD IS NOT PROPERLY CLOSED\n\nOBSERVATION:\nWe noted that most of the electrical board panel is not properly closed, exposing the live \nwire.\n\nRECOMMENDATION:\nOpen electrical panels expose live wires, posing risks such as fatal electric shocks, short \ncircuits, fires from sparks or overheating, environmental damage caused by dust, \nmoisture, or pests, and violations of safety standards, thereby increasing liability and \nendangering personnel and property.  \n \nTherefore, it is recommended that all electrical panels be properly closed. If the panel has \nmissing or broken covers, replace them with properly fitted, non -conductive, and fire -\nresistant covers. Use panels with IP -rated enclosures (e.g., IP44 or higher) for dusty or \nhumid environments.  \n \nEnsure that all covers are securely fastened with screws or latches to prevent accidental \nremoval, as loose covers are ineffective and pose additional safety risks\n\nREGULATION/GUIDELINE:\nThe standards and guidelines governing the safety of electrical installations, including \nopen electrical panels, focus on mitigating risks such as electrical shocks, short circuits, \nand fire hazards while ensuring compliance with statutory regulations, includes:  \n \n1. Malaysian Standards (MS 1979:2007)  \nThe Malaysian Standard (MS) for electrical installations specifies that all electrical \npanels must be enclosed to prevent direct contact with live wires, thus reducing the \nrisk of electric shocks. Missing or damaged covers are considered violations of safety \nrequirements, and panels must comply with IP ratings appropriate for the environment \n(e.g., IP44 for protection against dust and moisture)  \n \n2. Electricity Supply Act (ESA) 1990 & Regulations 1994  \nThe ESA 1990 and Electricity Supply (Safety) Regulations 1994 mandate that \nelectrical installations be safe and well -maintained. This includes:  \n• Ensuring electrical panels have proper enclosures to avoid exposure to live wires.  \n• Routine inspections and maintenance to prevent hazards caused by loose \nconnections, overheating, or environmental contamination.  \n• Installation and maintenance work must be carried out by licensed or competent \npersons to prevent risks   \n3. Suruhanjaya Tenaga (Energy Commission) Guidelines  \nSuruhanjaya Tenaga, the Malaysian Energy Commission, provides guidelines for \nmanaging electrical safety. These guidelines emphasize:  \n• A written electrical safety policy and management system to ensure compliance \nwith ESA 1990 and related standards.  \n• Risk assessments to identify potential hazards, such as open panels, and \nimplement preventive measures like installing proper covers.  \n• Regular performance monitoring, inspections, and audits to ensure electrical \ninstallations remain safe.",
+  "token_count": 695,
+  "metadata": {
+    "section_number": "2.4",
+    "section_title": "ELECTRICAL BOARD IS NOT PROPERLY CLOSED",
+    "category": "Electrical",
+    "regulations": [],
+    "keywords": [
+      "damage",
+      "safety",
+      "risk",
+      "electrical",
+      "fire",
+      "compliance",
+      "monitoring",
+      "regulation",
+      "standard",
+      "maintenance"
+    ],
+    "risk_type": "fire"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "1.8",
+  "category": "Perils",
+  "title": "WINDSTORM",
+  "content": "Section 1.8: WINDSTORM\n\nOBSERVATION:\nThe Administration, Academic, and Library Building (1 OP) has experienced multiple \nincidents of wind damage to the strip ceilings at the roof level. In September 2023, a \nsignificant wind event caused one strip ceiling to be blown away and damaged several \nothers. According to the participant, similar incidents have occurred on multiple occasions \npreviously but were not reported to the takaful operator. After each event, the damaged \nstrip ceiling was replaced without further investigation or mitigation measures.  \n \nThis repetitive pattern of damage highlights the inadequacy of current construction and \nmaintenance practices, suggesting the need for a more comprehensive and proactive \napproach to managing wind -induced risks.  \n \nThe following risk assessment s should be carried out to identify  any possible and inherent  \ncause s arises from the event : \n \n1)  Vulnerability to Strong Winds:  \n• The building's roof and strip ceiling structures are highly exposed to strong wind \nforces, especially during stormy weather conditions.  \n• The design and construction of the strip ceilings may not be adequate to withstand \nhigh wind pressures, leading to repeated failures.  \n•  \n2)  Potential Consequences:  \n• Structural damage to the building due to compromised ceilings.  \n• Potential safety hazards to occupants and pedestrians due to falling debris.  \n• Increased financial losses from repeated repairs and replacements.  \n• Potential reputational damage and increased insurance premiums if incidents \npersist.\n\nRECOMMENDATION:\nWe recommend that a more comprehensive and proactive approach be taken instead of \nmerely replacing the damaged strip ceilings after each incident . The followings mitigation \nplans shall be explored : \n \n1. Proactive Maintenance and Inspection:  \n• Quarterly Inspections:  \no Conduct scheduled inspections of the strip ceilings at least every three \nmonths, focusing on areas most exposed to prevailing wind directions.  \n• Post-Event Inspections:  \no Perform immediate inspections after each windstorm or strong wind event \nto assess damage and identify any weakened areas.  \n• Inspection Records:  \no Maintain detailed records of all inspections, including observations, \nidentified issues, and remedial actions taken.  \n• Professional Assessment:  \no Engage a professional roofing inspector or structural engineer to evaluate \nthe adequacy of the current installation and recommend improvements.  \n \n2. Enhanced Roof Strengthening Measures:  \n• Strengthening the Roof Structure:  \no Implement structural enhancements, such as:  \n▪ Installing gable bracing to support roof ends and reduce lateral movement.  \n▪ Utilizing roof nailing techniques that secure the roof deck more \neffectively to the supporting structures.  \n▪ Applying hurricane clips or straps to secure roof components.  \n• Reinforced Materials:  \no Upgrade the quality and durability of strip ceilings with materials that have \nhigher wind resistance.  \no Use weather -resistant fasteners and adhesives to secure the ceilings more \nfirmly.  \n \n3. Design and Construction Improvements:  \n• Wind Load Assessment:  \no Conduct a thorough analysis of the wind loads expected at the site, \nconsidering factors such as wind speed, wind direction, and building \ngeometry.  \n• Structural Integrity Enhancement:  \no Evaluate the connection points and support systems of the strip ceilings to \nensure they can withstand anticipated wind forces.  \n• Aerodynamic Considerations:  \no Redesign the strip ceiling profiles to reduce wind resistance and minimize \nthe likelihood of being lifted or blown away.  \n \n4. Expert Consultation and Mitigation Measures:  \n• If incidents continue to occur despite the above measures, it is recommended to:  \no Engage a qualified structural consultant or wind engineering expert to \nconduct an in -depth assessment.  \no Identify the root causes of failure and explore alternative construction \ntechniques or materials.  \no Implement wind mitigation strategies that are proven effective in similar \nenvironments\n\nREGULATION/GUIDELINE:\nThe primary standard governing wind loading for building structures in Malaysia is MS \n1553:2002 - Code of Practice on Wind Loading for Building Structure . This standard \noutlines the procedures to determine wind speeds and the resulting wind actions that \nstructures must withstand. Wind load specified as per MS1553 with a minimum basic wind \nspeed of 33.5m/s for Zone I while 32.5m/s for Zone II.  \n \n  \nAccording to Wind Load Consideration in Structural Design (by Ir. Dr. Justin L ai Woon \nFatt), the minimum wind forces  the main structural system must resist should be at least \n0.65 kN/m², multiplied by the area of the building or structure as seen in a vertical plane \nperpendicular to the wind direction.",
+  "token_count": 1206,
+  "metadata": {
+    "section_number": "1.8",
+    "section_title": "WINDSTORM",
+    "category": "Perils",
+    "regulations": [
+      "MS \n1553:2002 - Code of Practice on Wind Loading for Building Structure . This standard"
+    ],
+    "keywords": [
+      "damage",
+      "safety",
+      "risk",
+      "code",
+      "failure",
+      "regulation",
+      "structural",
+      "inspection",
+      "standard",
+      "maintenance"
+    ],
+    "risk_type": "structural"
+  }
+}

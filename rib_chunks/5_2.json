@@ -1,0 +1,27 @@
+{
+  "id": "5.2",
+  "category": "Process",
+  "title": "BATTERY CHARGING SOCKET",
+  "content": "Section 5.2: BATTERY CHARGING SOCKET\n\nOBSERVATION:\nThe battery charging socket was observed to be located approximately 1 foot away from a \nracking system used for storing paper cores, which are combustible materials. This \nproximity poses a significant fire risk, as any sparks, overheating, or electrical faults during \nthe charging process could potentially ignite the paper cores, leading to a fire outbreak.\n\nRECOMMENDATION:\nTo mitigate this risk effectively, it is highly recommended to take the following actions:  \n \n1) Relocation of the Charging Socket: The battery charging socket should be relocated \nto a designated area that is well -separated from combustible goods, such as paper \ncores. Ideally, this new location should be in a non -combustible area or a dedicated \nbattery charging station with adequate fire protection measures.  \n \n2) Installation of Fire -Resistant Barriers: If immediate relocation is not feasible, install \nfire-resistant barriers or shielding between the charging socket and the racking \nsystem to minimize the risk of fire spread.  \n \n3) Adequate Ventilation and Monitoring: Ensure that the new charging area is well -\nventilated to prevent heat buildup and is equipped with monitoring systems to detect \nany overheating or electrical issues promptly.  \n \n4) Signage and Safety Measures: Clearly mark the battery charging area with \nappropriate warning signs and enforce strict no -storage policies for combustible \nmaterials within a safe radius.  \n \n5) Regular Inspections and Maintenance: Implement a schedule for regular inspection \nand maintenance of the battery charging equipment to ensure it remains in safe \nworking condition.  \n \nBy adopting these measures, the risk of fire from the proximity of the battery charging \nsocket to combustible materials can be significantly reduced, ensuring a safer working environment.\n\nREGULATION/GUIDELINE:\n1. National Fire Protection Association (NFPA) Standards  \nNFPA 70 (National Electrical Code):  \nRequires electrical equipment, including charging sockets, to be installed in locations that \nminimize fire risks.  \nCombustible materials must be kept at a safe distance from heat -producing or electrical \nequipment.  \n \nNFPA 30 (Flammable and Combustible Liquids Code):  \nSpecifies the need for physical separation of combustible materials from potential ignition \nsources.  \n \n2. Occupational Safety and Health Standards  \nOSHA (Occupational Safety and Health Administration) – 29 CFR 1910.178 (g)(1)  (Battery \nCharging Requirements):  \nRequires adequate ventilation and safe clearance around battery charging areas to \nprevent ignition of nearby flammable materials.  \nStates that battery charging installations should avoid proximity to combustible storage.  \n \n3. Local Fire Safety Codes  \nFire and Building Codes (e.g., IFC, IBC):  \nInternational Fire Code (IFC) and local fire codes typically require fire safety measures to \nprevent ignition hazards.  \nMandates separation of electrical equipment from combustible storage areas, often \nspecifying minimum clearance distances.",
+  "token_count": 769,
+  "metadata": {
+    "section_number": "5.2",
+    "section_title": "BATTERY CHARGING SOCKET",
+    "category": "Process",
+    "regulations": [
+      "OSHA (Occupational Safety and Health Administration) – 29 CFR 1910.178 (g)(1)  (Battery"
+    ],
+    "keywords": [
+      "safety",
+      "risk",
+      "electrical",
+      "code",
+      "fire",
+      "monitoring",
+      "regulation",
+      "inspection",
+      "maintenance"
+    ],
+    "risk_type": "fire"
+  }
+}

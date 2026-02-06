@@ -1,0 +1,26 @@
+{
+  "id": "3.8",
+  "category": "Housekeeping",
+  "title": "COMBUSTIBLE STORAGE NEAR CONTROL PANELS",
+  "content": "Section 3.8: COMBUSTIBLE STORAGE NEAR CONTROL PANELS\n\nOBSERVATION:\nThe sub fire panel for the wastepaper warehouse is currently positioned in an area highly \nsusceptible to impact damage from potential falling wastepaper bales. This is a critical \nissue as the storage of combustible materials near control panels presents significant fire \nhazards, as well as mechanical damage risks. Due to the occupancy of the warehouse \nand the nature of its operation, the removal of combustible storage from this area is \ndeemed unachievable.  \n \n \nSub panel at the storage area  \n \nThe hazard identified from this are as follows:  \n \n▪ Accumulation of combustible materials (wastepaper bales) near control panels.  \n▪ Increased risk of fire initiation and propagation due to proximity of combustible \nstorage.  \n▪ Potential mechanical damage to control panels caused by the impact of falling \nwastepaper bales.  \n▪ Difficulty in accessing control panels during emergencies due to obstructed \nworking space.  \n \nThe potential consequences may exist from this hazard:  \n▪ Electrical malfunction or short -circuit leading to ignition of combustible materials.  \n▪ Loss of power control systems, resulting in operational disruptions.  \n▪ Increased likelihood of fire -related incidents, potentially endangering personnel and \nassets.  \n▪ Damage to critical control equipment, resulting in costly repairs and downtime.\n\nRECOMMENDATION:\nTo mitigate the risks associated with smoking, the following measures are strongly \nrecommended:  \n \n1. Relocation of Control Panels:  \n• Relocate the sub fire panel and any other critical panels to a dedicated area free \nfrom possible impact damage caused by falling wastepaper bales.  \n• Ensure the new location complies with the minimum working space clearance \nrequirements specified in NEC 110.26(B).  • Install barriers or partitions to separate control panels from combustible materials if \nrelocation is not immediately feasible  \n \n2. Installation of Protective Structures:  \n• Where relocation is impractical, install impact -resistant enclosures or protective \nbarriers to shield control panels from falling objects.  \n• Ensure the barriers are constructed of non -combustible materials and are \ndesigned to withstand the potential force of falling bales.  \n \n3. Improved Housekeeping and Safety Protocols:  \n• Implement stricter housekeeping procedures to minimize the buildup of \ncombustible materials around control panels.  \n• Clearly mark the designated working space around control panels and restrict its \nuse for storage.  \n• Regularly inspect and maintain clearance zones to ensure compliance with safety \nstandards.\n\nREGULATION/GUIDELINE:\nNational Electrical Code (NEC) 110.26  - Spaces About Electrical Equipment (600 Volts \nor Less):  \n• Section 110.26(B) Clear Spaces:  \no States that the required working space around electrical equipment must \nnot be used for storage.  \no Ensures that access to electrical control panels and other equipment is \nunimpeded for maintenance, inspection, and emergency shutdowns.  \no Requires sufficient clearance to prevent obstruction by any objects, \nespecially combustible materials that may interfere with the safety and \noperational integrity of the equipment.  \n• Purpose:  \no To minimize the risk of fire and electrical hazards by ensuring adequate \nclearance and accessibility to electrical systems.  \no To enhance the safety of personnel performing maintenance or emergency \nresponse actions.  \n \n \n  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nHUMAN ELEMENT",
+  "token_count": 883,
+  "metadata": {
+    "section_number": "3.8",
+    "section_title": "COMBUSTIBLE STORAGE NEAR CONTROL PANELS",
+    "category": "Housekeeping",
+    "regulations": [],
+    "keywords": [
+      "damage",
+      "safety",
+      "hazard",
+      "mechanical",
+      "risk",
+      "electrical",
+      "emergency",
+      "code",
+      "fire",
+      "compliance"
+    ],
+    "risk_type": "fire"
+  }
+}

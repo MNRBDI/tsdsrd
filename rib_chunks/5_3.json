@@ -1,0 +1,26 @@
+{
+  "id": "5.3",
+  "category": "Process",
+  "title": "OVERHEAD CRANE",
+  "content": "Section 5.3: OVERHEAD CRANE\n\nOBSERVATION:\nThe production area is equipped with an overhead crane designed to lift heavy materials \nand work -in-progress components, facilitating efficient handling and movement of loads. \nHowever, the operation of such equipment introduces significant safety risks, including the \npotential for heavy objects or metal components to fall from the crane. This poses serious \nhazards to personnel, equipment, and operations in the vicinity.\n\nRECOMMENDATION:\nIt is recommended that the workers be wearing the appropriate personal protective \nequipment (PPE) i.e., safety helmet, safety shoes when working under lifting \nmachine/equipment area. As such, it is recommended to gazette the lifting crane area as a \nmandatory area for PPE especially safety helmet and safety shoes. A clearly demarcate \nthe crane’s operating zones and restrict access to unauthorized personnel during lifting \noperations. In addition, a display visible warning signs and signals shall be made to alert \nworkers of ongoing crane operations.   \n \nOther routine maintenance and safety inspections  shall also be observed to minimize  the \nhazards such as:  \n \n - Conduct routine maintenance and safety inspections of the overhead crane to ensure it \noperates reliably and meets safety standards.  \n- Inspect all components, including hoists, slings, hooks, and load -lifting attachments, for \nwear and tear or damage.  \n- Verify the integrity of the crane’s limit switches and safety mechanisms.  \n- Ensure all loads lifted by the crane are within the rated capacity of the equipment.  \n- Overloading significantly increases the risk of accidents.  \n- Use appropriate rigging and lifting techniques to secure loads properly and minimize the risk of detachment.  \n - Ensure all crane operators are adequately trained, certified, and familiar with the crane’s \noperating procedures and emergency protocols.  \n- Provide regular refresher training to reinforce safe operating practices and update \noperators on any changes in\n\nREGULATION/GUIDELINE:\n1. Factories and Machinery Act 1967 (Act 139)  \nThe Factories and Machinery Act 1967 is one of the primary regulations in Malaysia \nconcerning the operation, safety, and maintenance of machinery, including overhead \ncranes.  \n \n2. Occupational Safety and Health Act 1994 (OSHA 1994)  \nThe Occupational Safety and Health Act 1994 (OSHA) emphasizes the duty of employers \nto ensure workplace safety, which extends to the use of overhead cranes. Key provisions \ninclude:  \n \nGeneral Duties of Employers (Section 15):  \nEmployers are obligated to provide and maintain machinery, in a safe condition to prevent \nworkplace accidents.  \nAdequate training, supervision, and instructions must be provided to workers to ensure \nsafe operations.  \n \n3. Guidelines by the Department of Occupational Safety and Health (DOSH)  \nDOSH has developed comprehensive guidelines to ensure the safe use, maintenance, \nand inspection of overhead cranes. The guidelines serve as a reference for employers, \noperators, and safety officers. Key highlights include:  \n \nSafe Use of Cranes:  \nCranes must only be operated by personnel certified as competent under DOSH \nguidelines.  \nOperating manuals and safe work procedures must be readily available at the crane site.  \n \nInspection Requirements:  \nCranes must undergo a thorough inspection by DOSH -certified personnel during \ninstallation, after any modifications, and at regular intervals (typically 15 months).  \nInspections include checking structural integrity, electrical systems, hoist mechanisms, \nand load -bearing components.  \n \nLoad Testing:  \nBefore commissioning, cranes must undergo load testing to ensure they can handle the \nspecified maximum load safely. Load tests must also be performed periodically to verify \ncontinued compliance.  \n \nEmergency Systems and Controls:  \nOverhead cranes must be equipped with emergency stop systems and load -limiting \ndevices to prevent overloading.  \nClear signage must indicate load capacities, operating zones, and safety warnings.  \n \nTraining and Certification:  \nOperators must complete DOSH -recognized training programs and hold valid \ncertifications. Refresher courses are recommended to ensure operators are updated on \nsafety practices and regulations.",
+  "token_count": 1073,
+  "metadata": {
+    "section_number": "5.3",
+    "section_title": "OVERHEAD CRANE",
+    "category": "Process",
+    "regulations": [],
+    "keywords": [
+      "damage",
+      "safety",
+      "risk",
+      "electrical",
+      "emergency",
+      "compliance",
+      "regulation",
+      "structural",
+      "inspection",
+      "maintenance"
+    ],
+    "risk_type": "electrical"
+  }
+}

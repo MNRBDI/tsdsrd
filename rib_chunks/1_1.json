@@ -1,0 +1,24 @@
+{
+  "id": "1.1",
+  "category": "Perils",
+  "title": "SUBSIDENCE",
+  "content": "Section 1.1: SUBSIDENCE\n\nOBSERVATION:\nEvidence of subsidence were observed at several areas such as around the M&E rooms \nof Carpark Building.  \n \nSubsidence, which refers to the gradual sinking or settling of the ground, poses significant \nrisks to the structural integrity and operational functionality of the building.\n\nRECOMMENDATION:\nTo mitigate these risks and ensure the safety and functionality of the building, the following \nmeasures are recommended:  \n \nRegular Monitoring of Subsidence Levels  \nImplement a systematic subsidence monitoring program, with measurements taken \nmonthly to track changes in ground levels.  \nUtilize tools such as laser levelling , precise digital levelling  instruments, or settlement \nmarkers to ensure accurate data collection.  \n \nComprehensive Ground Investigation  \nConduct a detailed geotechnical survey to determine the underlying cause of the \nsubsidence.  \nAssess soil conditions, groundwater levels, and other contributing factors to develop a \ntargeted remediation plan.  \n \nPreventive Maintenance and Remediation  \nBased on investigation results, implement remedial actions such as soil stabilization, \nunderpinning foundations, or installing drainage systems to mitigate further ground \nmovement.  \n \nProtect M&E Equipment  \nTemporarily reinforce the M&E rooms to minimize the risk of damage during the \nmonitoring and remediation period.  \nEnsure waterproofing measures are in place to protect critical systems from potential \nwater ingress.  \n \nRecord and Report Findings  \nMaintain a log of all monitoring data, inspections, and remedial actions taken.\n\nREGULATION/GUIDELINE:\nIn Malaysia, while there isn't a specific regulation exclusively dedicated to subsidence \nmonitoring, several guidelines and standards address the monitoring of ground \nmovements and structural integrity, which encompass subsidence concerns.  \n \nGeotechnical Design Guidelines by JKR (Jabatan Kerja Raya):  \nThese guidelines provide comprehensive procedures for geotechnical analysis, including \nsettlement predictions, calculation of settlement times, and design criteria for settlement \nanalysis. They emphasize the importance of monitoring ground movements to ensure \nstructural safety and integrity.  \n \nThe Geotechnical Design Guidelines by JKR (Jabatan Kerja Raya) provide a \ncomprehensive framework for managing geotechnical risks, including subsidence. These \nguidelines emphasize assessing, monitoring, and mitigating ground movement to ensure \nthe safety and stability of structures.  \n \nBelow is an outline of the relevant sections related to subsidence:  \n \nGround Investigation Requirements  \n• Conduct thorough soil investigations to identify soil properties, including \ncompressibility, shear strength, and permeability.  \n• Borehole drilling and sampling should be done at strategic locations to assess \nsubsurface conditions that may influence settlement.  \n• Lab testing, including consolidation tests, should be conducted to estimate \nsettlement rates and magnitude  \n \nMonitoring of Movements  \n• Regularly monitor settlement and subsidence using geotechnical instruments such \nas settlement markers  and piezometers.",
+  "token_count": 792,
+  "metadata": {
+    "section_number": "1.1",
+    "section_title": "SUBSIDENCE",
+    "category": "Perils",
+    "regulations": [],
+    "keywords": [
+      "damage",
+      "safety",
+      "risk",
+      "monitoring",
+      "structural",
+      "regulation",
+      "maintenance",
+      "testing"
+    ],
+    "risk_type": "structural"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "5.6",
+  "category": "Process",
+  "title": "SPRAY PAINTING  WITHIN SHOWROOM SPACE",
+  "content": "Section 5.6: SPRAY PAINTING  WITHIN SHOWROOM SPACE\n\nOBSERVATION:\nDuring the inspection, it was observed that a small spray painting area is located within \nthe showroom space, without proper segregation from public areas or other activities. \nAdditionally, the area lacks adequate ventilation to disperse flammable fumes, posing a \npotential fire hazard. Spray paints and related materials are not stored in appropriate fire -\nresistant cabinets, which increases the risk of fire.\n\nRECOMMENDATION:\nFlammable liquid would release and liberate flammable vapours in the air. Being heavier \nthan air, they could settle and accumulate at ground level. Flammable vapours could be \nignited from the electrical fault/flash over in the event of electrical malfunction or short \ncircuiting.  \n \nIn general, we recommend that if any of the liquids fall under the flammable category, the \nfollowing points should be adopted for their storage arrangement where necessary.  \n \n• For the flammable liquids we recommend to be stored in separate location or \ndetached room away from other combustible materials. In every storage room, \nthere shall be maintained an aisle at least 1 m wide. If flammable liquid maintains \nto be stored in the existing location, provision must be made to relocate it to the far \ncorner of the building with one hour fire rated partition to cut -off the flammable \nliquid occupancy from surrounding occupancies.  \n• Ventilation is provided for the room in the form of gravity or a mechanical exhaust \nventilation system designed to provide a complete change of air in the room and \nthe vapor or concentration in the room should be maintained below 25% of the \nlower flammability level. The ventilation for flammable liquids is recommended to \nbe installed at low -level because flammable vapor is heavier than air and \ntherefore, it settles to the ground level.  \n• To contain the flammable liquids from approaching other properties, a containment \nsystem should be constructed to permit safe collection of spillage or leakage. The \nsize of containment should be able to accommodate the largest container stored.  \n• The quantity of flammable liquids kept in the production area must strictly limit \nmerely for daily consumption. Any balance must be returned back to the \ndesignated storeroom  or kept in the approved flammable cabinet (as per photo \nbelow).  \n \nAlternatively, the spray painting activity could be carried out outside the building away \nfrom any combustible materials.\n\nREGULATION/GUIDELINE:\n1. Fire Services Act 1988 (Act 341)  \nThe Fire Services Act 1988  is the primary legislative framework governing fire safety in \nMalaysia. Key provisions include:  \n• Section 8: Abatement of Fire Hazards  \n• Authorities, such as the Director General of Fire Services, have the power \nto issue notices requiring premises to rectify fire hazards.  \n• Improper storage or handling of flammable substances (e.g., spray paints) \nthat pose a fire risk can lead to such notices.  \n• Failure to comply with these notices can result in fines or prosecution.  \n• Section 23: Installation of Fire Safety Systems  \n• Owners of premises where flammable substances are used or stored must \nensure appropriate fire safety systems, such as fire extinguishers and \nsuppression systems, are installed.  \n \n2. Uniform Building By -Laws (UBBL) 1984  \nThe UBBL  is Malaysia’s building regulation framework and includes fire safety provisions \nthat apply to all buildings, including those handling hazardous materials. Relevant sections \ninclude:  \n• Regulation 225: Storage of Dangerous Goods  \n• Flammable and combustible materials must be stored in designated areas \naway from public spaces.  \n• Proper ventilation must be installed to prevent the accumulation of \nhazardous vapours . \n• Regulation 247: Fire Extinguishing Appliances  \n• Fire extinguishers must be provided at accessible locations.  \n• Equipment must comply with standards set by the Malaysian Fire and \nRescue Department.  \n \n3. Department of Occupational Safety and Health (DOSH) Guidelines  \nThe Occupational Safety and Health Act 1994  and associated guidelines from DOSH \nemphasize safe handling, storage, and use of hazardous chemicals:  \n• Chemical Safety Guidelines:  \n• Employers are required to identify hazards and ensure that flammable \nmaterials like spray paints are stored in fire -resistant cabinets.  \n• Material Safety Data Sheets (MSDS) must be provided for all hazardous \nsubstances and accessible to employees.  \n• Control of Industrial Major Accident Hazards (CIMAH) Regulations 1996:  \n• Requires facilities that store flammable chemicals to conduct risk \nassessments and implement measures to mitigate potential fire hazards .  \n4. Malaysian Standards (MS)  \nThe Malaysian Standards  provide technical requirements for fire safety equipment and \ninstallations. Notable standards include:  \n• MS 1539:2002 – Portable Fire Extinguishers:  \n• Specifies the types of fire extinguishers suitable for different classes of fire, \nincluding Class B (flammable liquids).  \n• MS 830:1983 – Ventilation Systems for Hazardous Areas:  \nProvides guidelines for proper ventilation systems to reduce the risk of flammable vapor \naccumulation.",
+  "token_count": 1305,
+  "metadata": {
+    "section_number": "5.6",
+    "section_title": "SPRAY PAINTING  WITHIN SHOWROOM SPACE",
+    "category": "Process",
+    "regulations": [
+      "Section 8: Abatement of Fire Hazards",
+      "MS 1539:2002 – Portable Fire Extinguishers:",
+      "Section 23: Installation of Fire Safety Systems",
+      "MS 830:1983 – Ventilation Systems for Hazardous Areas:"
+    ],
+    "keywords": [
+      "safety",
+      "hazard",
+      "leakage",
+      "mechanical",
+      "risk",
+      "electrical",
+      "chemical",
+      "fire",
+      "failure",
+      "regulation"
+    ],
+    "risk_type": "fire"
+  }
+}

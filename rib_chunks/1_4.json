@@ -1,0 +1,28 @@
+{
+  "id": "1.4",
+  "category": "Perils",
+  "title": "DRAINAGE SYSTEM",
+  "content": "Section 1.4: DRAINAGE SYSTEM\n\nOBSERVATION:\nDuring the inspection, several issues were identified within the drainage system that could \npose potential risks to the premises.  \n \n1. Structural Damage to the Drainage System  \nSome sections of the drain, particularly those located at the rear -left side of the premises, \nwere observed to be cracked. This could lead to:  \n \n- Water stagnation, increasing the risk of flooding and mosquito breeding.  \n- Soil erosion, which may weaken the surrounding ground structure.  \n- Blockages and inefficiencies, reducing the drainage system’s ability to handle \nexcess water during heavy rainfall  \n \n2. Obstruction Due to Overgrown Bushes  \nSome sections of the drainage system, particularly at the rear side of the premises, were \nfound to be filled with bushes and vegetation, leading to:  \n \n- Blockage of water flow, increasing the likelihood of flooding.  \n- Pest infestations, as stagnant water can attract rodents, mosquitoes, and other \nharmful organisms.  \n- Structural damage, as plant roots may penetrate drainage walls, causing cracks \nand leaks.\n\nRECOMMENDATION:\nHere are some recommendations for improving this potential risk:  \n \n- The damaged sections of the drain should be promptly repaired to restore structural \nintegrity and prevent further deterioration.  \n- Regular inspection and maintenance should be conducted to ensure that the drainage \nsystem remains functional and free from defects.  \n- The bushes and vegetation obstructing the drains should be cleared immediately to \nensure the free flow of water.  \n- A routine maintenance schedule should be established to prevent future blockages.  \n- The premises management should implement a drainage upkeep plan that includes \nperiodic cleaning and vegetation control.\n\nREGULATION/GUIDELINE:\nThe maintenance and management of drainage systems in Malaysia are governed by the \nfollowing regulations and guidelines:  \n \n1. Street, Drainage and Building Act 1974 (Act 133)  \nSection 53: Requires Local authority to repair and alter and may discontinue surface and \nstorm water drains .  \nSection 55:  Penalty. From t his section , it mentions  that the a uthorities have the power to \nenforce remedial actions if a drainage system is found to be defective or blocked.  \n \n2. Environmental Quality Act 1974 (Act 127)  \nSection 24: Prohibits activities that lead to pollution,  \nSection 25: Restriction on pollution of inland waters. Note that ‘inland water’ means of \nreservoir, pond lake, ri ver, canal, stream, drain etc. which can be translate to  improper \ndrainage maintenance that can cause water contamination.   \n3. Local Authority Guidelines (such as DBKL, MBPJ, MPAJ, etc.)  \nMandates regular maintenance of drainage systems within private and commercial \npremises.  \nImposes penalties for failure to maintain drainage systems, leading to public nuisance or \nenvironmental hazards.",
+  "token_count": 725,
+  "metadata": {
+    "section_number": "1.4",
+    "section_title": "DRAINAGE SYSTEM",
+    "category": "Perils",
+    "regulations": [
+      "Section 24: Prohibits activities that lead to pollution,",
+      "Section 55:  Penalty. From t his section , it mentions  that the a uthorities have the power to",
+      "Section 53: Requires Local authority to repair and alter and may discontinue surface and",
+      "Section 25: Restriction on pollution of inland waters. Note that ‘inland water’ means of"
+    ],
+    "keywords": [
+      "damage",
+      "risk",
+      "failure",
+      "regulation",
+      "structural",
+      "inspection",
+      "maintenance"
+    ],
+    "risk_type": "structural"
+  }
+}

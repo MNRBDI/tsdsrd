@@ -1,0 +1,27 @@
+{
+  "id": "3.7",
+  "category": "Housekeeping",
+  "title": "INSTALLATION OF DIKE AROUND GENERATOR SET",
+  "content": "Section 3.7: INSTALLATION OF DIKE AROUND GENERATOR SET\n\nOBSERVATION:\nThe standby generator set is not provided with dike.  \n \nThe absence of a containment dike around the generator set poses the following risks:  \n \n- Oil Spill & Environmental Contamination – Leakage of fuel or lubricating oil from the \ngenerator can seep into the ground or nearby drainage systems, causing soil and water \ncontamination.  \n- Fire Hazard – Leaked fuel increases the risk of fire, especially if it comes into contact \nwith hot surfaces or electrical components.  \n- Slips and Falls – Oil spills create a safety hazard for personnel working near the \ngenerator.\n\nRECOMMENDATION:\nHere are some risk mitigation recommendations for improving this potential risk:  \n \nInstallation of Containment Dike  \n-Construct a concrete dike around the generator to contain spills.  \n- The dike should have sufficient height and capacity to retain at least 110% of the largest \nsingle fuel or oil volume present in the generator system.  \n- Use a sloped or channelled  floor to direct any spills to a collection sump.  \n \nProper Drainage System  \n- Provide a sump with an oil -water separator to allow for proper disposal of leaked fluids.  \n- Regularly inspect and maintain the drainage system to prevent clogging.  \n \nFire Safety Measures  \n- Ensure that Class B fire extinguishers (foam or dry chemical) are readily available near \nthe generator.  \n- Install fire -rated containment material if necessary to prevent the spread of flammable \nliquid fires.  \n \nExample of the dike is as below.\n\nREGULATION/GUIDELINE:\n1. Environmental Protection & Pollution Control  \nEnvironmental Quality Act 1974 (EQA 1974) – Regulates industrial waste, including oil \nspills. Any leakage from generators must be contained to prevent soil and water \ncontamination.  \n \n2. Fire & Safety Regulation s Fire Services Act 1988  – Requires the implementation of \nfire prevention measures, especially in industrial settings with flammable substances.  \n \n3. Factories and Machinery Act 1967 (FMA 1967)  – Part II, Section 10  \nStipulate the requirement to e nsures workplace safety, including the safe handling of \nfuel and lubricants.  \n \n- OSHA 29 CFR 1910.106  (d)(6)(iii) Flammable Liquids Regulations, US) – Governs \nstorage and containment of flammable liquids.  \n- The storage area shall be graded in a manner to divert possible spills away from \nbuildings or other exposures or shall be surrounded by a curb at least 6 inches \nhigh. When curbs are used, provisions shall be made for draining of accumulations \nof ground or rainwater  or spills of flammable liquids. Drains shall terminate at a \nsafe location and shall be accessible to operation under fire conditions.",
+  "token_count": 680,
+  "metadata": {
+    "section_number": "3.7",
+    "section_title": "INSTALLATION OF DIKE AROUND GENERATOR SET",
+    "category": "Housekeeping",
+    "regulations": [
+      "Section 10  \nStipulate the requirement to e nsures workplace safety, including the safe handling of",
+      "OSHA 29 CFR 1910.106  (d)(6)(iii) Flammable Liquids Regulations, US) – Governs"
+    ],
+    "keywords": [
+      "safety",
+      "hazard",
+      "leakage",
+      "risk",
+      "electrical",
+      "chemical",
+      "fire",
+      "regulation"
+    ],
+    "risk_type": "fire"
+  }
+}

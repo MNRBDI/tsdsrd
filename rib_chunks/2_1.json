@@ -1,0 +1,28 @@
+{
+  "id": "2.1",
+  "category": "Electrical",
+  "title": "NO INSPECTION ON TRANSFORMER",
+  "content": "Section 2.1: NO INSPECTION ON TRANSFORMER\n\nOBSERVATION:\nThere has been no inspection conducted on the transformers, or such inspections are \nentirely absent. Regular inspection and maintenance of transformers are critical for \nensuring their operational reliability and preventing potential hazards. The lack of \ninspections increases the risk of undetected faults, such as insulation degradation, oil \nleaks, overheating, or other mechanical and electrical issues. These faults could lead to \nequipment failure, fire hazards, or even extensive downtime, posing significant safety, \noperational, and financial risks.\n\nRECOMMENDATION:\nTo improve risk management and enhance safety, it is recommended to implement a \nstructured inspection schedule in line with industry standards. This should include periodic \nvisual inspections, thermographic scanning, oil analysis, and electrical testing to detect \nand address issues early, thereby mitigating the likelihood of failures and ensuring \ncompliance with safety and performance standards.\n\nREGULATION/GUIDELINE:\nThe Electricity Supply Act 1990 and the Electricity Regulations 1994 serve as key \nlegislative frameworks in Malaysia governing the generation, distribution, and \nmaintenance of electrical installations, including transformers.  \n \n1. Electricity Supply Act 1990  \nThe Electricity Supply Act 1990 outlines the legal requirements for the safe operation and \nmaintenance of electrical installations. Key provisions relevant to transformer maintenance \ninclude:  \n \nSafe Operation (Section 33 a.) \n(1) A licensee who operates and maintains any electricity supply infrastructure shall \ncomply with any regulations made under this Act, the electrical infrastructure safety code \nor in the absence of such regulations or code, with standards and prudent utility practices \nas may be determined by the Commission.  \n \nNote: This section mandates that electrical installations, including transformers, must be \nmaintained in a condition that prevents danger to individuals or property.  \nOwners or operators of transformers are responsible for ensuring that the equipment \noperates safely and complies with applicable safety standards.  \n \nCompetency Requirements (Section 33c) \nThis section state o nly qualified personnel, such as competent engineers certified under \nthe Energy Commission, are authorized to conduct inspections, maintenance, and repairs \non electrical installations . \n \nOffences and Penalty  (Part IX)  \nThis section describes  the failure to maintain electrical equipment in accordance with the \nAct can result in penalties, including fines and imprisonment, particularly if non -\ncompliance leads to injury, death, or property damage.  \n \n2. Electricity Regulations 1994  \nThe Electricity Regulations 1994 provide detailed guidelines for the maintenance, \ninspection, and testing of electrical installations, including transformers. Key regulations \ninclude:  \n Regulation 110: Part IV Maintenance  \nAll installation shall be maintained in good and working order and safety precautions ahll \nbe observed at all times to prevent danger.  \n \nElectrical installations must be inspected and tested by a competent person at least once \nevery five years. For transformers, this may involve:  \nChecking for overheating or load imbalances.  \nInspecting insulation, connections, and oil levels.  \nTesting electrical parameters to ensure compliance with performance standards.  \n \nRegulation 70: Part III – Operation – Duty to inform and to make goof defects  \nAny Electrical Services Engineer, Competent Electrical Engineer or Electrical Supervisor \ninspecting and installation referred to in sub regulation  67(2), and being aware of any \ndefect in the installation or any equipment therein which is likely to cause danger shall \nforthwith inform the owner, management or licensee of the installation to make good or \nremove the defects and make a report immediately to the Commission.  \n \nNote: This highlighted that i f defects are discovered during maintenance or inspection, \nthey must be reported to the Energy Commission. Operators must take immediate steps \nto rectify the issues to avoid potential hazards.  \n \nRegulation 1 11: Part IV Maintenance – Competency  person to undertake maintenance \nwork  \nNo person, except a competent person or a person acting under the control of a \ncompetent person, shall undertake to carry out any repair, replacement, servicing or \ncleaning of any equipment which forms part of an installation.  \n \nNote: Maintenance and inspection must be conducted by a competent person, as defined \nunder the Electricity Regulations. This ensures that the personnel handling transformers \nhave the required knowledge and certifications.",
+  "token_count": 1183,
+  "metadata": {
+    "section_number": "2.1",
+    "section_title": "NO INSPECTION ON TRANSFORMER",
+    "category": "Electrical",
+    "regulations": [
+      "Section 33 a.)"
+    ],
+    "keywords": [
+      "damage",
+      "safety",
+      "mechanical",
+      "risk",
+      "electrical",
+      "code",
+      "fire",
+      "failure",
+      "compliance",
+      "regulation"
+    ],
+    "risk_type": "fire"
+  }
+}

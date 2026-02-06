@@ -1,0 +1,30 @@
+{
+  "id": "5.12",
+  "category": "Process",
+  "title": "SURGE PROTECTION DEVICE AT PV SOLAR FARM",
+  "content": "Section 5.12: SURGE PROTECTION DEVICE AT PV SOLAR FARM\n\nOBSERVATION:\nBased on the single line diagram, it was noted that no surge protection devices (SPDs) \nare installed on either the DC or AC side of the system. This presents a significant risk to \nthe photovoltaic (PV) solar farm, as it increases the vulnerability of critical components —\nsuch as PV strings, inverters, combiner boxes, transformers, and monitoring systems —to \ntransient overvoltage caused by lightning strikes, switching surges, and grid disturbances. \nThe absence of SPDs can lead to insulation breakdown, damage to electronic \ncomponents, reduced operational efficiency, and potential downtime.\n\nRECOMMENDATION:\nA Surge Protection Device (SPD) is a critical component in electrical systems, engineered \nto safeguard electrical and electronic equipment from transient overvoltage resulting from \nlightning strikes, switching operations, and grid disturbances. SPDs operate by rapidly \ndiverting or clamping excess voltage to a predefined safe threshold, thereby protecting \nsensitive components and maintaining the stability and integrity of the electrical network.  \n \nIt is technically recommended to install Type 1+2 SPDs on the DC side at the PV strings \nand combiner boxes to mitigate both direct lightning strikes and switching surges. On the \nAC side, Type 2 SPDs should be deployed at the inverter output and the main AC \ndistribution panel to counter grid -induced transients. For protection of sensitive monitoring \nand communication systems, installing Type 2 or Type 3 SPDs is advised to prevent data \ncorruption and operational failure. Proper coordination between different SPD types must \nbe established to ensure layered protection across the PV solar farm, minimizing let -\nthrough energy and optimizing response times. Furthermore, periodic testing and \nmaintenance of SPDs are essential to validate performance and sustain long -term system \nreliability.\n\nREGULATION/GUIDELINE:\n1. IEC 61643 -31:2018 – Low-voltage Surge Protective Devices – Part 31: \nRequirements and Test Methods for SPDs for Photovoltaic Installations  \n• Scope (Clause 1): This section defines the applicability of the standard to SPDs \nintended for surge protection against indirect and direct effects of lightning or other \ntransient overvoltage  on the DC side of PV installations rated up to 1,500 V DC.   \n• Normative References (Clause 2): Lists the standards referenced within IEC \n61643 -31, providing a foundation for the requirements and test methods specified.  \n• Terms and Definitions (Clause 3): Establishes the terminology used throughout the \nstandard, ensuring clarity and consistency in the application of its provisions.  \n• Requirements (Clause 4): Outlines the performance characteristics and safety \nrequirements for SPDs, including parameters such as:  \no Maximum continuous operating voltage (Uc)  \no Nominal discharge current (In)  \no Voltage protection level (Up)  \no Operating duty tests  \no Environmental conditions  \n• Tests (Clause 5): Details the standard methods for testing SPDs to verify \ncompliance with the performance and safety requirements specified in Clause 4.  \n \n2. IEC 60364 -7-712:2017 – Electrical Installations of Buil dings – Part 7 -712: \nRequirements for Special Installations or Locations – Solar Photovoltaic (PV) Power \nSupply Systems  \n• Scope (Clause 1): Specifies the requirements for the electrical installation of PV systems intended to supply all or part of an installation, focusing on safety and \nproper integration into the electrical system.    \n• Protection for Safety (Clause 712.410): Addresses measures for protection against \nelectric shock, emphasizing the need for appropriate insulation and protective \ndevices in PV installations.  \n• Selection and Erection of Equipment (Clause 712.512): Provides guidelines on \nselecting and installing equipment, including SPDs, to ensure compatibility with the \nPV system's characteristics and environmental conditions.  \n• Wiring Systems (Clause 712.521): Covers the requirements for wiring systems \nwithin PV installations, considering factors such as current -carrying capacity, \nvoltage drop, and protection against mechanical damage.  \n• Protective Devices (Clause 712.533): Focuses on the selection and installation of \nprotective devices, including SPDs, to safeguard the PV s ystem against \novercurrent and overvoltage.",
+  "token_count": 1099,
+  "metadata": {
+    "section_number": "5.12",
+    "section_title": "SURGE PROTECTION DEVICE AT PV SOLAR FARM",
+    "category": "Process",
+    "regulations": [
+      "IEC 60364 -7-712:2017 – Electrical Installations of Buil dings – Part 7 -712:",
+      "IEC 61643 -31:2018 – Low-voltage Surge Protective Devices – Part 31:",
+      "IEC \n61643 -31, providing a foundation for the requirements and test methods specified."
+    ],
+    "keywords": [
+      "damage",
+      "safety",
+      "mechanical",
+      "risk",
+      "electrical",
+      "failure",
+      "compliance",
+      "monitoring",
+      "regulation",
+      "standard"
+    ],
+    "risk_type": "electrical"
+  }
+}

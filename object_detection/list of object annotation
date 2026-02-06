@@ -1,0 +1,66 @@
+Here’s the most specific class list to use for annotation (one label per object):
+
+crack
+ground crack
+wall crack
+floor crack
+burst pipe
+water leak
+pipe leak
+slope
+hillside
+retaining wall
+drain
+drainage
+blocked drain
+water puddle
+flood water
+standing water
+water damage
+lightning rod
+lightning arrester
+dead tree
+fallen tree
+electrical panel
+switchboard
+open panel
+transformer
+circuit breaker
+exposed wire
+loose wire
+burn mark
+scorch mark
+grease floor
+dirty floor
+oily surface
+metal scrap
+scrap pile
+lpg cylinder
+gas cylinder
+storage drum
+metal drum
+oil drum
+cardboard box
+boxes
+combustible material
+generator
+dike wall
+bund
+fire extinguisher
+exit sign
+emergency exit
+smoking area
+cigarette
+no smoking sign
+safety sign
+warning sign
+spray booth
+battery
+battery rack
+overhead crane
+crane
+pipe label
+storage tank
+solar panel
+pv panel
+Use only one label per object, choosing the most specific one that fits.

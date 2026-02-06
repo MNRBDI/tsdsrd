@@ -1,0 +1,28 @@
+{
+  "id": "5.1",
+  "category": "Process",
+  "title": "SPRAY COATING",
+  "content": "Section 5.1: SPRAY COATING\n\nOBSERVATION:\nThe spray coating booth in Coating Factory is not provided with explosion proof type \nelectrical installation.  \n \n \nSpray coating booth\n\nRECOMMENDATION:\nThe absence of explosion -proof electrical installations in the spray coating booth at the \nCoating Factory poses a significant safety risk. Spray coating operations often involve the \nuse of flammable materials, which generate vapours , fumes, or mist that can form \nexplosive atmospheres. Any spark or ignition source from non -explosion -proof electrical \nequipment in these areas can lead to devastating fires or explosions.  \n \nTo mitigate this risk and ensure compliance with safety standards, it is strongly \nrecommended that all electrical installations within the spray coating booth be upgraded to \nexplosion -proof specifications.\n\nREGULATION/GUIDELINE:\nEnsuring that the spray coating booth in your Coating Factory is equipped with explosion -\nproof electrical installations is crucial for safety and compliance with Malaysian \nregulations. The following legislative frameworks and standards govern this requirement:  \n \n1. Electricity Regulations 1994:  \nRegulation 15(1): Any apparatus, conductor or accessory for the purpose of connection to \nan installation shall be sufficient in size,  \npower and number to serve the purpose for which it is intended and shall be constructed, \ninstalled, ar ranged,  protected, worked and maintained in such a manner as to prevent \ndanger.  \n This includes  the requires that all electrical equipment and wiring comply with standards \nensuring safety and suitability for their operating environment. In areas with flammable \nvapours , such as spray coating booths, this implies the use of explosion -proof equipment.  \n \n2. Non -Domestic Electrical Installation Safety Code (ND -EISC):  \nIssued by the Energy Commission, this code provides guidelines for the design, \nconstruction, inspection, testing, operation, and maintenance of electrical installations in \nnon-domestic settings. It emphasizes the need for appropriate equipment in hazardous \nareas to prevent ignition sources.  \n \n3. Malaysian Standards (MS)  and International Electrotechnical Commission (IEC) \nStandards:  \n - MS IEC 60364 -4-42: Addresses protection against thermal effects, including measures \nto prevent ignition in hazardous areas.  \n \n - IEC 60079 Series: Provides comprehensive requirements for electrical installations in \nexplosive atmospheres, detailing the selection, installation, and maintenance of explosion -\nproof equipment.",
+  "token_count": 640,
+  "metadata": {
+    "section_number": "5.1",
+    "section_title": "SPRAY COATING",
+    "category": "Process",
+    "regulations": [
+      "IEC 60364 -4-42: Addresses protection against thermal effects, including measures"
+    ],
+    "keywords": [
+      "safety",
+      "explosion",
+      "risk",
+      "electrical",
+      "code",
+      "compliance",
+      "regulation",
+      "inspection",
+      "maintenance",
+      "testing"
+    ],
+    "risk_type": "fire"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "2.0_index",
+  "category": "Electrical",
+  "title": "Electrical Index",
+  "content": "CATEGORY INDEX: Electrical\n\nDescription:\nElectrical safety issues including inspections, wiring, circuit breakers, and transformers\n\nThis category contains multiple risk improvement recommendations related to electrical hazards and controls.",
+  "token_count": 60,
+  "metadata": {
+    "section_number": "2.0",
+    "section_title": "Electrical Index",
+    "category": "Electrical",
+    "regulations": [],
+    "keywords": [
+      "electrical",
+      "index",
+      "category"
+    ],
+    "risk_type": "index"
+  }
+}

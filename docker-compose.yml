@@ -1,0 +1,145 @@
+services:
+  vllm-ocr:
+    image: nvcr.io/nvidia/vllm:25.12.post1-py3
+    container_name: vllm-ocr-server
+    ports:
+      - "8002:8000"
+    volumes:
+      - ~/.cache/huggingface/hub:/root/.cache/huggingface/hub
+      - ~/dotsocr_cache:/root/.cache
+    environment:
+      - CUDA_LAUNCH_BLOCKING=1
+    command:
+      - vllm
+      - serve
+      - rednote-hilab/dots.ocr
+      - --trust-remote-code
+      - --async-scheduling
+      - --gpu-memory-utilization
+      - "0.25"
+      - --max-model-len
+      - "65536"
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    restart: unless-stopped
+    shm_size: '4gb'
+    ipc: host
+    ulimits:
+      memlock: -1
+      stack: 67108864
+    stdin_open: true
+    tty: true
+    
+  vllm-qwen:
+    image: nvcr.io/nvidia/vllm:25.12.post1-py3
+    container_name: vllm-qwen-server
+    ports:
+      - "8000:8000"
+    volumes:
+      - ~/.cache/huggingface/hub:/root/.cache/huggingface/hub
+      - ~/llm_cache:/root/.cache
+    command:
+      - vllm
+      - serve
+      - Qwen/Qwen3-VL-32B-Instruct-FP8
+      - --trust-remote-code
+      - --gpu-memory-utilization
+      - "0.50"
+      - --max-model-len
+      - "131072"
+      - --enable-auto-tool-choice
+      - --tool-call-parser
+      - hermes
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    restart: unless-stopped
+    shm_size: '4gb'
+    ipc: host
+    ulimits:
+      memlock: -1
+      stack: 67108864
+    stdin_open: true
+    tty: true
+    
+  vllm-medgemma:
+    image: nvcr.io/nvidia/vllm:25.12.post1-py3
+    container_name: vllm-medgemma-server
+    ports:
+      - "8001:8000"
+    environment:
+      HF_TOKEN: ${HF_TOKEN}
+      HUGGINGFACE_HUB_TOKEN: ${HF_TOKEN}
+    volumes:
+      - ~/.cache/huggingface/hub:/root/.cache/huggingface/hub
+      - ~/medgemma_cache:/root/.cache
+    command:
+      - vllm
+      - serve
+      - google/medgemma-4b-it
+      - --trust-remote-code
+      - --gpu-memory-utilization
+      - "0.20"
+      - --max-model-len
+      - "131072"
+      - --limit-mm-per-prompt
+      - '{"image":0}'
+      - --enable-auto-tool-choice
+      - --tool-call-parser
+      - hermes
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    restart: unless-stopped
+    shm_size: '4gb'
+    ipc: host
+    ulimits:
+      memlock: -1
+      stack: 67108864
+    stdin_open: true
+    tty: true
+  llama-vision-90b:
+    image: nvcr.io/nvidia/pytorch:25.11-py3
+    container_name: llama-vision-90b-server
+    ports:
+      - "8004:8000"
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all 
+      - HF_TOKEN=${HF_TOKEN}
+      - TRANSFORMERS_CACHE=/root/.cache/huggingface/hub
+      - HF_HOME=/root/.cache/huggingface/hub
+    volumes:
+      - ~/.cache/huggingface/hub:/root/.cache/huggingface/hub
+      - ~/llama_vision_cache:/root/.cache
+      - ./llama_app:/app
+    working_dir: /app
+    command: >
+      bash -c "
+      pip install --no-cache-dir transformers accelerate bitsandbytes sentencepiece protobuf pillow fastapi uvicorn pydantic psycopg2-binary sentence-transformers &&
+      python server.py
+      "
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]
+    restart: unless-stopped
+    shm_size: '24gb'
+    ipc: host
+    stdin_open: true
+    tty: true

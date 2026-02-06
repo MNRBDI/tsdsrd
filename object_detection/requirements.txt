@@ -1,0 +1,9 @@
+transformers==4.34.0
+torch==2.0.0
+pillow>=10.0.0
+matplotlib>=3.7.0
+opencv-python>=4.8.0
+fastapi>=0.103.0
+uvicorn>=0.23.0
+python-multipart>=0.0.6
+

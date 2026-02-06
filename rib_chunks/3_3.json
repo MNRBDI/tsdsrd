@@ -1,0 +1,29 @@
+{
+  "id": "3.3",
+  "category": "Housekeeping",
+  "title": "STORAGE OF LPG GAS CYLINDER",
+  "content": "Section 3.3: STORAGE OF LPG GAS CYLINDER\n\nOBSERVATION:\nThere is an LPG gas cylinder storage area located at the rear side of the Production \nbuilding.\n\nRECOMMENDATION:\nHere are some recommendations for improving the safety and organization of the LPG \nstorage area:  \n \n1. Secure and Properly Lock the Enclosure  \nEnsure that the storage cage remains locked at all times to prevent unauthorized access \nand potential tampering.  \nThe locking mechanism should be robust to withstand external interference.  \n \n2. Fire Safety Enhancements  \nFire Extinguisher Placement: While a fire extinguisher is available, it should be an ABC dry \npowder or CO ₂ type suitable for flammable gas fires.  \nInstall a Fire -Rated Barrier: Compliance with MS 830:2013 requires LPG storage areas to \nhave a 4 -hour fire -rated wall to contain potential fire hazards.  \n \n3. Signage and Emergency Instructions  \nImprove existing signag e by including:  \n“Flammable Gas - No Smoking or Open Flames”  \n“LPG Storage - Authorized Personnel Only”  \nEmergency contact details and immediate action steps in case of leaks or fire.  \n \n4. Proper Cylinder Storage  \nEnsure all LPG cylinders are stored upright and secured with chains or brackets to \nprevent them from falling, in line with MS 830:2013.  \nMaintain a minimum separation distance from any potential ignition sources as per OSHA \n1994 (Occupational Safety and Health Act).  \n \n5. Adequate Ventilation and Drainage  Ensure the storage area is well -ventilated to prevent gas accumulation.  \nInstall proper drainage to avoid water accumulation around cylinders, which can cause \nrust and weaken the integrity of the cylinders.\n\nREGULATION/GUIDELINE:\n1. Compliance with MS 830:2013 - Storage, Handling, and Transportation of LPG  \n- Proper Cylinder Orientation: LPG cylinders must always be stored upright and secured \nusing chains or brackets to prevent accidental falls or tipping.  \n- Fire Separation Distance: LPG storage should be at least 3 meters away from ignition \nsources, heat -producing equipment, or direct sunlight exposure.  \n- Enclosure Requirements: The storage area must be fenced or enclosed with non -\ncombustible materials and have adequate ventilation to prevent gas accumulation.  \nSignage & Labelling : The area must be clearly marked with warning signs such as:  \n“Flammable Gas - No Smoking or Open Flames”  \n“LPG Storage - Authorized Personnel Only”  \n- Emergency procedures for leaks or fires must also be displayed.  \n \n5. Occupational Safety and Health Act 1994 (OSHA 1994)  \nSection 15:  General duties of employer, self -employed persons and occupier  \n- Stipulate the duties and responsibilities of the employer, self -employed or occupier to \nensure the use of plant or substance are safe and without risks to health or their \nemployees and persons other than his employees at workplace.  \n \nSection 20: General duties of designers, manufacturers and suppliers  \n- Requires designers, manufacturers, importers, and suppliers of any plant for use at \nwork to ensure, as far as practicable, that the plant is safe and without risks to health \nwhen properly used.  \n \nSection 21:  General duties of designers, manufacturers and suppliers  \n- Imposes similar duties on those who formulate, manufacture, import, or supply any \nsubstance for use at work, ensuring that the substance is safe and without risks to \nhealth when properly used.  \n- Note that substances in this Act means any natural or artificial substance, whether in \nsolid or liquid form or in th e form of a gas or vapour or any combination.  \n \nSection 24:  General duties of employees  \nStipulates the duties of the employee while at work to take reasonable care for the safety \nand health of himself and any other person, to comply with any instruction or measure on \noccupational safety and health instituted by his employer and to wear any protective \nequipment to prevent risks to his safety and health.  \n \n3. Compliance with Factories and Machinery Act 1967 (FMA 1967)  \nSafe Installation & Maintenance: All LPG cylinders, piping, and equipment must be \nperiodically inspected to prevent leaks and deterioration.  \nStructural Integrity: The storage area should have a stable foundation to prevent cylinder \nmovement due to vibration or impact.  \nPermit to Operate: If the storage exceeds a certain volume, an operating permit may be \nrequired under the FMA regulations.  \n \n4. Energy Commission Gas Supply Regulations 1997  \n \nSection 39 : Power to make regulations  \nStipulate the regulations on method by which gas may be stored and the measures to be \ntaken and the equipment  to be supplied and used in connection with pipeline and \ninstallations in order to secure public and private safety.",
+  "token_count": 1181,
+  "metadata": {
+    "section_number": "3.3",
+    "section_title": "STORAGE OF LPG GAS CYLINDER",
+    "category": "Housekeeping",
+    "regulations": [
+      "Section 20: General duties of designers, manufacturers and suppliers",
+      "MS 830:2013 - Storage, Handling, and Transportation of LPG",
+      "Section 39 : Power to make regulations",
+      "Section 15:  General duties of employer, self -employed persons and occupier",
+      "Section 24:  General duties of employees"
+    ],
+    "keywords": [
+      "safety",
+      "emergency",
+      "fire",
+      "compliance",
+      "regulation",
+      "structural",
+      "maintenance"
+    ],
+    "risk_type": "fire"
+  }
+}

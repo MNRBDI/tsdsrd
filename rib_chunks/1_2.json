@@ -1,0 +1,30 @@
+{
+  "id": "1.2",
+  "category": "Perils",
+  "title": "PIPE BURSTING",
+  "content": "Section 1.2: PIPE BURSTING\n\nOBSERVATION:\nRegular occurrences of pipe bursting in the facility present significant risks, including \npotential damage to infrastructure, equipment, and inventory. This issue can also disrupt \noperations, increase maintenance costs, and pose safety hazards such as flooding, \nelectrical hazards, and compromised structural integrity.\n\nRECOMMENDATION:\nTo minimize the risk of pipe bursts, which can lead to property damage, operational \ndisruptions, and safety hazards, the following proactive measures are recommended.  \n \n - If the piping systems are still under warranty, the installing contractor should be \nrequested to perform a one -time comprehensive inspection of all piping systems, including \njoints and connections, at no additional cost.  \n - Ensures that potential installation defects or weaknesses are identified and rectified \nearly.  \n - Confirms the quality and durability of materials and workmanship under the contractor's \nresponsibility.  \n \n - The insured’s maintenance personnel should conduct regular inspections of the piping \nsystems, ideally on a monthly basis. If monthly inspections are not feasible, prioritize high -\nrisk joints and connections for monthly checks.  \n - Identifies early signs of wear, corrosion, or leaks, reducing the likelihood of pipe failure.  \n - Prolongs the lifespan of the piping system by ensuring timely maintenance and repairs.  \n \n - Train all personnel working on the premises, such as hotel housekeeping staff, to \nrecognize and report signs of water leakage or damaged pipes to the maintenance team \npromptly.  \n - Ensures rapid response to emerging issues, preventing further damage or escalation.\n\nREGULATION/GUIDELINE:\n1. Strata Management Act 2013:  \nThis Act addresses maintenance and management issues in strata properties. It \nincludes provisions on the responsibilities of property owners and management bodies \nconcerning maintenance and repair of common facilities, including piping systems, to \nprevent issues like inter -floor leakages.  \n2. The Street, Drainage and Building Act 1974 (Act 133)  \nThis Act e ncompasses several sections pertinent to the construction and maintenance \nof building infrastructure, impacting the integrity of piping sys tems.  These provisions \ncollectively aim to ensure the proper installation, maintenance, and operation of piping \nsystems within buildings, thereby safeguarding structural integrity and public health.  \nNotable sections include:  \n1. Section 56: Rain -water pipes n ot to be used as soil -pipes  \no Prohibits the use of rainwater pipes for carrying soil or drainage from \nprivies or water -closets, ensuring proper segregation of waste and \nrainwater systems.  \n2. Section 57: Water pipes, etc., not to be used as ventilating shafts  \no Restricts the use of water pipes as ventilating shafts to prevent contamination and ensure proper ventilation of drainage systems.   \n3. Section 61: Ventilating pipes to sewers  \no Empowers local authorities to install necessary pipes for the proper \nventilation of  drains and sewers, maintaining  the functionality and safety of \ndrainage infrastructure.  \n3. The Factories and Machinery (Safety, Health, and Welfare) Regulations 1970  \n \nThia Act e ncompass provisions that, while not explicitly mentioning \"pipe bursting,\" relate \nto the safety and maintenance of piping systems within industrial settings. Relevant \nsections include:  \n1. Regulation 18: Hot Pipes  \no Mandates that all steam pipes and pipes used for heating purposes, which \nare accessible to personnel during regular operations , must be properly \ninsulated or guarded. This measure prevents accidental contact that could \nlead to injuries and ensures the safe operation of piping systems.   \n2. Regulation 20: Stacking of Material  \no Specifies that materials, including pipes and bar stock, should be stored on \nstable racks or layered with appropriate supports to prevent displacement. \nProper storage minimizes the risk of mechanical damage to pipes, which \ncould lead to failures or bursts.   \n3. Regulation 19: Objects on Inclines  \no Requires that heavy objects, such as large pipes, handled on inclines must \nbe controlled using ropes or other tackle, in addition to necessary chocks or \nwedges. This regulation aims to prevent uncontrolled movements that could \nresult in damage or hazardous situations.",
+  "token_count": 1094,
+  "metadata": {
+    "section_number": "1.2",
+    "section_title": "PIPE BURSTING",
+    "category": "Perils",
+    "regulations": [
+      "Section 61: Ventilating pipes to sewers",
+      "Section 56: Rain -water pipes n ot to be used as soil -pipes",
+      "Section 57: Water pipes, etc., not to be used as ventilating shafts"
+    ],
+    "keywords": [
+      "damage",
+      "safety",
+      "corrosion",
+      "leakage",
+      "mechanical",
+      "risk",
+      "electrical",
+      "failure",
+      "regulation",
+      "structural"
+    ],
+    "risk_type": "electrical"
+  }
+}

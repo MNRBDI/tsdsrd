@@ -1,0 +1,28 @@
+{
+  "id": "1.3",
+  "category": "Perils",
+  "title": "LANDSLIDE AND RISK ASSESSMENT",
+  "content": "Section 1.3: LANDSLIDE AND RISK ASSESSMENT\n\nOBSERVATION:\nThe risk of landslides is present due to the slightly elevated land with a hill located within \nthe campus. Although no past incidents of landslides have been recorded, the proximity of \nthe hill slope to buildings increases the risk of soil movement which could lead to a \nlandslide, potentially causing structural damage, injury, or operational disruption.  \n \nPotential Risks Associated with the Hill Slope  \n \n1. Landslide & Soil Erosion Risks  \n- Unstable slopes due to natural soil erosion, which may gradually weaken the slope \nstability.  \n- Heavy rainfall or poor drainage systems may trigger soil displacement.  \n- Vegetation overgrowth can cause uneven soil distribution, increasing the chances of \nslope failure.  \n \n2. Infrastructure & Safety Risks  \n- The proximity of the buildings and walkway to the hill slope means a landslide could \ndamage structures.  \n- Falling rocks or debris may cause injury to individuals walking along the covered \nwalkway.\n\nRECOMMENDATION:\nHere are some risk mitigation recommendations for improving this potential risk:  \n \n1. Regular Monitoring & Inspection  \n-Conduct frequent visual inspections of the slope for signs of soil movement, including:  \n  -Cracks in the ground or retaining walls  \n  -Leaning trees or tilting structures  \n  -Falling soil, loose rocks, or minor slope failures  \n  -Drainage blockages that may increase soil saturation  \n- Schedule geotechnical assessments every six months or after heavy rainfalls to evaluate \nslope stability.  \n \n2. Slope Stabilization Measures  \n- Install proper drainage systems to prevent excessive water accumulation that weakens \nsoil strength.  \n- Vegetation control: Maintain appropriate ground cover plants or geotextile matting to \nprevent excessive soil erosion.  \n- Construct retaining walls or reinforce slopes using gabions, soil nailing, or erosion control \nbarriers.  \n- If cracks or soil movement are detected, immediate reinforcement should be undertaken \nto prevent further deterioration.  \n \n3. Safety Measures for Walkways & Buildings  \n- Install protective barriers along the covered walkway to reduce the risk of debris falling \nonto pedestrian paths.  \n- Establish a safe clearance zone near the slope to restrict unauthorized access.  \n- Ensure emergency evacuation procedures are in place in case of landslide threats\n\nREGULATION/GUIDELINE:\nThe safety and stability of slopes fall under several Malaysian laws and guidelines, which \ninclude:  \n 1. Guidelines for Slope Safety by the Public Works Department (JKR) & Slope \nManagement Guidelines by JPS Malaysia  \n- Requires proper slope management, erosion control, and periodic maintenance to \nprevent landslides.  \n- Encourages installation of retaining structures and drainage systems to manage slope \nstability  (under item 12 & 13).  \n \n2. Street, Drainage and Building Act 1974 (Act 133)  \nSection 53: Requires Local authority to repair and alter and may discontinue surface and \nstorm water drains . From this section , it may ensure drains and slopes are properly \nmaintained to prevent soil movement.",
+  "token_count": 784,
+  "metadata": {
+    "section_number": "1.3",
+    "section_title": "LANDSLIDE AND RISK ASSESSMENT",
+    "category": "Perils",
+    "regulations": [
+      "Section 53: Requires Local authority to repair and alter and may discontinue surface and"
+    ],
+    "keywords": [
+      "damage",
+      "safety",
+      "risk",
+      "emergency",
+      "failure",
+      "monitoring",
+      "structural",
+      "inspection",
+      "regulation",
+      "maintenance"
+    ],
+    "risk_type": "structural"
+  }
+}

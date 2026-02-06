@@ -1,0 +1,26 @@
+{
+  "id": "2.3",
+  "category": "Electrical",
+  "title": "ACCUMULATION OF COMBUSTIBLE MATERIAL AT ELECTRICAL \nBOARD",
+  "content": "Section 2.3: ACCUMULATION OF COMBUSTIBLE MATERIAL AT ELECTRICAL \nBOARD\n\nOBSERVATION:\nDuring the site visit, we found that combustible materials were stored too close to the \nelectrical systems, such as the electrical board and utilities in the switchboard room. \nFlying sparks from an electrical short circuit could cause a smouldering fire, which may \nremain undetected for hours before an open flame breaks out, possibly during off -hours. \nThis could escalate into a large fire.\n\nRECOMMENDATION:\nElectrical fires due to failures of electrical connection are the causes of many equipment \nor building fires. Many of these electrical fires result from improper terminations, poor \nworkmanship, different characteristics of dissimilar metals, improper binding screw or \nsplicing devices, environmental and atmospheric condition present at the facility.  \n \nCombustibles materials stored close to electrical panel and incoming electrical board \ncould be ignited by electrical fault/flashover in the event of electrical malfunction or short \ncircuiting. Spark or ignition source will land on the nearby carton boxes/combustible \nmaterial and start the fire in the storage area.  \n \nTo minimize the fire risk, we recommend that all electrical panels be kept clear of \ncombustible materials. A yellow square marking should be drawn on the floor, and a \nbarricade should be placed within a 1.5 -meter radius around the electrical panel to \nindicate that no materials are to be stored near the panel\n\nREGULATION/GUIDELINE:\nIn Malaysia, the use of combustible materials  around electrical switchboards is \nregulated under several standards, including MS 1933  (Code of Practice for Electrical \nInstallations), MS 1979  (Code of Practice for Electrical Installations of Buildings), and the \nUniform Building By -Laws (UBBL) . These guidelines aim to ensure that electrical \ninstallations are safe, reduce the risk of fire, and protect both property and lives.  \n \nMS 1933: Code of Practice for Electrical Installations  \n• Section 3: General Requirements for Electrical Installations  \no Clause 3.3.4 ( Safety of electrical equipment): It specifies that all electrical \ninstallations should be designed, installed, and maintained to ensure safety \nunder normal operating conditions. This includes protecting against fire \nhazards, which can be caused by combustible materials in proximity to electrical equipment such as switchboards, panel boards, or distribution \nboards.  \no  \nMS 1979: Code of Practice for Electrical Installations - Low Voltage Installations  \n1. Clause 4.4 - Location of Electrical Equipment  \nThis clause states that electrical equipment, including switchboards, should be \ninstalled in locations that minimize the risk of fire or damage. It emphasizes that \nelectrical installations should not be placed near combustible materials that could \ncatch fire in the event of an electrical fault, overheating, or short circuit.  \n \n• Clause 4.6 - Clearances Around Electrical Equipment  \nElectrical switchboards must maintain a certain clearance from combustible \nmaterials to ensure safe operation and ease of maintenance. This clearance also \nallows heat dissipation and minimizes the risk of fire hazards due to overheating of \nelectrical components.  \n \n• Clause 5.1 - General Installation Requirements  \nThis clause specifies that all installations should be properly maintained and kept \nclear of any potential hazards, including combustible materials. The area around \nelectrical switchboards must be free from storage of flammable or combustible \nsubstances to reduce the risk of fire or electric shock.",
+  "token_count": 905,
+  "metadata": {
+    "section_number": "2.3",
+    "section_title": "ACCUMULATION OF COMBUSTIBLE MATERIAL AT ELECTRICAL \nBOARD",
+    "category": "Electrical",
+    "regulations": [
+      "Section 3: General Requirements for Electrical Installations"
+    ],
+    "keywords": [
+      "damage",
+      "safety",
+      "risk",
+      "electrical",
+      "code",
+      "fire",
+      "regulation",
+      "maintenance"
+    ],
+    "risk_type": "fire"
+  }
+}

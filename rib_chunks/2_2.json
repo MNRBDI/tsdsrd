@@ -1,0 +1,28 @@
+{
+  "id": "2.2",
+  "category": "Electrical",
+  "title": "ELECTRICAL INSPECTION",
+  "content": "Section 2.2: ELECTRICAL INSPECTION\n\nOBSERVATION:\nThere is no schedule inspection carried out to date.  \n \nThe lack of scheduled inspections for electrical installations poses significant operational, \nsafety, and legal risks, including:  \n \nElectrical Failures & Unexpected Downtime  \n- Without periodic testing, electrical components may deteriorate, leading to unplanned \npower outages and operational disruptions.  \n- Overloaded circuits, loose connections, and insulation breakdowns increase the \nprobability of sudden equipment failure.  \n \nFire & Explosion Hazards  \n- Lack of inspection may cause unnoticed faults in wiring, switchgear, and transformers, \nwhich can overheat and ignite nearby materials.  \n- Accumulated dust, moisture, and worn -out insulation can lead to short circuits and arc \nflash incidents, causing severe damage to equipment and personnel.  \n \nFailure of Protective Relays & Devices  \n- Protective relays and circuit breakers require periodic testing and calibration to ensure \nproper functioning in fault conditions.  \n- If these devices fail to operate correctly, it could lead to extensive damage to electrical \nsystems and increased fire risks.  \n \nRegulatory Non -Compliance & Legal Consequences  \n- Failure to perform scheduled inspections violates the Electricity Supply Act 1990, \npotentially leading to penalties, legal liability, and revocation of operating licenses.  \n- Non-compliance with safety regulations may invalidate insurance claims in the event of \nan electrical accident or fire.\n\nRECOMMENDATION:\nTo mitigate the risks associated with the absence of scheduled inspections, the following \ncorrective actions should be taken:  \n \n1. Implement a Preventive Maintenance & Inspection Program  \n- Develop a structured maintenance schedule in compliance with regulatory requirements.  \n- Assign a competent electrical engineer or technician to conduct inspections.  \n- Create inspection checklists to cover:  \n    - Visual inspection of wiring, panels, and terminations.  \n    - Testing of circuit breakers, relays, and transformers.  \n    - Earth resistance, insulation resistance, and thermographic analysis.  \n \n2. Regulatory Compliance – Scheduled Inspections Per Voltage Level  \n- Ensure compliance with Electricity Supply Act 1990,\n\nREGULATION/GUIDELINE:\n1.   Electricity Supply Act 1990 (Malaysia)  \n- Regulation 110(3) – Mandates electrical installations (excluding domestic) to be tested at \nleast once every five years by a competent person.  \n- Regulation 110(4) – Requires protective relays and devices to be tested and calibrated at \nleast every two years.  \n- Regulation 67 – Specifies routine ins pection frequency based on voltage level:  \n       - ≤ 600V → At least once per month  \n       - 600V – 11kV → At least twice per month  \n        - 11kV – 132kV → At least four times per month  \n \n2.   MS IEC 60364 (Electrical Installations for Buildings)  \n- Provide s guidelines for electrical system maintenance, grounding, and protective device \ninspections.  \n \n3.   NFPA 70B (Recommended Practice for Electrical Equipment Maintenance)  \n- Establishes best practices for preventive maintenance of electrical systems.  \n \n4.   OSHA 1994 (Malaysia – Occupational Safety and Health Act)  \n- Requires identification, assessment, and control of electrical hazards through periodic \ninspections.",
+  "token_count": 838,
+  "metadata": {
+    "section_number": "2.2",
+    "section_title": "ELECTRICAL INSPECTION",
+    "category": "Electrical",
+    "regulations": [
+      "OSHA 1994 (Malaysia – Occupational Safety and Health Act)"
+    ],
+    "keywords": [
+      "damage",
+      "safety",
+      "explosion",
+      "electrical",
+      "fire",
+      "failure",
+      "compliance",
+      "monitoring",
+      "regulation",
+      "inspection"
+    ],
+    "risk_type": "fire"
+  }
+}

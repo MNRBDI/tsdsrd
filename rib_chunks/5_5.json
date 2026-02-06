@@ -1,0 +1,28 @@
+{
+  "id": "5.5",
+  "category": "Process",
+  "title": "BATTERY CHARGING  IN NON -VENTILATED ROOM",
+  "content": "Section 5.5: BATTERY CHARGING  IN NON -VENTILATED ROOM\n\nOBSERVATION:\nThe battery charging area is located in a non -ventilated room, which poses serious safety \nhazards. During the charging process, lead -acid batteries generate hydrogen gas, which \ncan form an explosive atmosphere if not adequately dispersed.  \n \nHazards & Risks:  \n \n1) Fire & Explosion Risk  \nHydrogen gas is highly flammable and can ignite at concentrations as low as 4% in air.  \nA single spark (from electrical equipment or static discharge) could result in an explosion.  \n \n2)Health Hazards (Asphyxiation & Toxic Exposure)  \nAccumulated hydrogen gas can displace oxygen, causing suffocation in confined spaces.  \nLead -acid batteries may also release sulfuric acid vapours , which cause respiratory \nirritation and corrosion of equipment.\n\nRECOMMENDATION:\nTo eliminate the risks associated with hydrogen gas accumulation, the following controls \nshould be implemented:  \n \n1. Install a Forced Ventilation System  \nAs per NFPA 70E (Standard for Electrical Safety in the Workplace), Section 240.1, battery \ncharging areas must be provided with ventilation to remove flammable gases.  \nA mechanical ventilation system with an exhaust fan should be installed at the highest \npoint of the room (since hydrogen is lighter than air).  \n \n2. Use Natural Ventilation (If Relocation is Feasible)  \nIf mechanical ventilation is not feasible, relocate the battery charging area to an open or \nsemi -open space with natural air circulation.  \nPosition batteries near windows, louvered walls, or roof vents to allow passive hydrogen \ndissipation.\n\nREGULATION/GUIDELINE:\n1. Electrical & Fire Safety Standards  \nNFPA 70E (Standard for Electrical Safety in the Workplace), Section 240.1  \n- Requires proper ventilation for battery charging areas to prevent hydrogen accumulation.  \n- Mandates explosion -proof electrical equipment in battery rooms.  \n \n2. IEEE /ASHRAE Std 1635 2018   \n- Outline the battery operating modes and the hazards associated with it.  \n \n3. Occupational Safety & Health Regulations  \nOSHA 29 CFR 1910.178(g) (US Regulations on Battery Charging Areas)  \n-Mandates adequate ventilation and prohibits smoking or open flames near battery \ncharging stations.  \n \n4. Occupational Safety and Health Act 1994 (Malaysia – OSHA 1994)  \n- Employers must assess and control workplace hazards, including chemical exposure \nand fire risks.",
+  "token_count": 602,
+  "metadata": {
+    "section_number": "5.5",
+    "section_title": "BATTERY CHARGING  IN NON -VENTILATED ROOM",
+    "category": "Process",
+    "regulations": [
+      "OSHA 29 CFR 1910.178(g) (US Regulations on Battery Charging Areas)"
+    ],
+    "keywords": [
+      "safety",
+      "corrosion",
+      "explosion",
+      "mechanical",
+      "risk",
+      "electrical",
+      "chemical",
+      "fire",
+      "regulation",
+      "standard"
+    ],
+    "risk_type": "fire"
+  }
+}

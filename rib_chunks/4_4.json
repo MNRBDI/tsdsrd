@@ -1,0 +1,24 @@
+{
+  "id": "4.4",
+  "category": "Human Element",
+  "title": "GAS TEST  BEFORE HOT WORK OPERATION",
+  "content": "Section 4.4: GAS TEST  BEFORE HOT WORK OPERATION\n\nOBSERVATION:\nThere is no gas test being conducted before conducting hot work  operation. This practice \nincreases the risk of fire or explosion, especially if combustible gases are present in the \nwork area. The absence of gas testing also contravenes established safety standards and \nregulations designed to minimize such risks.\n\nRECOMMENDATION:\nTo ensure the safety of workers, equipment, and the facility, it is strongly recommended to \nconduct a gas test before starting any hot work operations. The following measures \nshould be implemented:  \n \n1) Pre-Hot Work Gas Testing:  \nConduct gas tests in all areas where hot work, such as welding, cutting, or grinding, is \nplanned.  \nUse calibrated gas detectors or multi -gas analyzers to measure concentrations of \nflammable gases or vapours , ensuring they are below the Lower Explosive Limit (LEL).  \n \n2) Establish a Hot Work Permit System:  \nIncorporate gas testing into a formal Hot Work Permit process.  \nEnsure that the gas test results, including date, time, and measured levels, are \ndocumented on the permit before hot work begins.  \n \n3) Continuous Monitoring:  \nWhere there is a potential for flammable gas buildup during the work, conduct continuous \ngas monitoring to detect hazardous conditions in real -time.  \n \n4) Safety Measures Based on Results:  \nIf combustible gas is detected, ensure adequate ventilation or purging of the area before \nproceeding.  \nPostpone the hot work operation until the area is confirmed safe by gas testing and other \ncontrol measures.  \n \n5) Regular Calibration of Gas Testing Equipment:  \nEnsure gas detectors are regularly calibrated and maintained to ensure accurate readings.\n\nREGULATION/GUIDELINE:\n1. Occupational Safety and Health Administration (OSHA)  \n \n29 CFR 1910.252 (Welding, Cutting, and Brazing):  \nRequires a thorough evaluation of the hot work area for potential fire hazards, including \nthe presence of flammable gases.  \n \n29 CFR 1915.14 (Hot Work on Shipyard Employment):  \nMandates that testing for flammable atmospheres be performed before hot work begins in \nconfined spaces or other hazardous areas.  \n \n2. National Fire Protection Association (NFPA)  \n \nNFPA 51B (Standard for Fire Prevention During Welding, Cutting, and Other Hot Work):  \nSpecifies that gas testing must be performed to detect the presence of combustible gases \nor vapours  before starting hot work.  \n \nEmphasizes implementing a Hot Work Permit system and maintaining a fire watch during \noperations.",
+  "token_count": 636,
+  "metadata": {
+    "section_number": "4.4",
+    "section_title": "GAS TEST  BEFORE HOT WORK OPERATION",
+    "category": "Human Element",
+    "regulations": [],
+    "keywords": [
+      "safety",
+      "explosion",
+      "risk",
+      "fire",
+      "monitoring",
+      "regulation",
+      "standard",
+      "testing"
+    ],
+    "risk_type": "fire"
+  }
+}

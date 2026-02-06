@@ -1,0 +1,29 @@
+{
+  "id": "5.13",
+  "category": "Process",
+  "title": "PIPELINE FOR GAS SUPPLY FOR COMMERCIAL BUILDING / \nAPARTMENT",
+  "content": "Section 5.13: PIPELINE FOR GAS SUPPLY FOR COMMERCIAL BUILDING / \nAPARTMENT\n\nOBSERVATION:\nThe apartment has been using the natural gas for cooking via gas pipeline. the pipeline \nhas been  operating for 5 years with no proper maintenance.\n\nRECOMMENDATION:\nOver time, gas pipelines are susceptible to corrosion, leaks, pressure irregularities, and \nmechanical wear, which can compromise the integrity of the system and pose serious \nsafety hazards such as gas leaks, fires, and explosions. To address this, a structured \nmaintenance program should be implemented in accordance with industry standards and\n\nREGULATION/GUIDELINE:\n1. NFPA 54 – National Fuel Gas Code  \nKey Requirements for Maintenance:  \n1. Leak Detection and Repair  \n• All piping, valves, and fittings must be inspected periodically for leaks.  \n• Use the following methods for leak detection:  \no Soap solution test – Apply soapy water to joints and look for bubbles.  \no Electronic gas detector – Use an approved gas detector to detect leaks.  \no Pressure drop test – Pressurize the system and monitor pressure drop over \ntime.  \n• If a leak is found:  \no Shut off the gas supply immediately.  \no Repair or replace the affected component.  \no Conduct a new pressure test before returning to service.  \n \n2. Pressure Testing and Regulation  \n• After installation, modification, or repair, pipelines must undergo a pressure test.  \n• Test pressure should be 1.5 times the maximum operating pressure but not less \nthan 3 psi (20.7 kPa).  \n• Test duration should be at least 10 minutes for small systems and longer for large \nsystems.  \n• Pressure regulators must be inspected and calibrated regularly to maintain proper \noperating pressure.  \n \n3. Corrosion Protection  \n• Protect piping systems from corrosion using:  \no Coatings (e.g., epoxy, paint) for above -ground pipes.  \no Cathodic protection for underground pipes.  \n• Inspect coatings annually for signs of wear or damage.  \n• Replace or repair damaged protective coatings.  \n \n4. Ventilation and Combustion Air  \n• Ensure adequate ventilation in rooms with gas appliances.  \n• Ventilation openings must remain unobstructed.  \n• Inspect ventilation systems annually to prevent gas accumulation.  \n \n5. Emergency Shut -off Valves  \n• Install manual shut -off valves at key points in the system (e.g., near the gas meter \nand at the appliance).  \n• Test the operation of shut -off valves at least once a year.  \n• Ensure valves are accessible and clearly labelled.  \n \n6. Maintenance Documentation  \n• Maintain detailed maintenance and inspection records, including:  \no Date and results of inspections.  \no Repairs and modifications.  \no Pressure test results.  • Records must be kept for at least 5 years.  \n \n2. ASME B31.8 – Gas Transmission and Distribution Piping Systems  \nKey Requirements for Maintenance:  \n1. Pipeline Integrity and Corrosion Control  \n• Perform internal and external inspections regularly.  \n• Inspect protective coatings and repair damaged areas.  \n• Implement cathodic protection for underground pipes.  \n \n2. Leak Detection and Monitoring  \n• Install leak detection systems (e.g., sensors, gas detectors).  \n• Continuously monitor pipeline pressure and flow rates.  \n• Respond to alarms immediately and repair leaks promptly.  \n \n3. Pressure Regulation and Relief  \n• Test pressure regulators and relief valves periodically.  \n• Adjust regulators to maintain consistent operating pressure.  \n• Replace malfunctioning valves and regulators.  \n \n4. Pigging and Cleaning  \n• Clean pipelines using mechanical pigs to remove debris and deposits.  \n• Conduct smart pigging (using ultrasonic or magnetic sensors) to assess internal \npipeline conditions.  \n \n5. Record Keeping  \n• Maintain inspection, testing, and repair records for at least 5 years.  \n• Include pressure test results, corrosion reports, and leak detection logs.  \n \n3. MS 930 – Code of Practice for the Installation of Fuel Gas Piping Systems  \nKey Requirements for Maintenance:  \n1. Leak Testing  \n• Conduct leak tests at least once a year.  \n• Use pressure drop tests and gas detectors to identify leaks.  \n \n2. Corrosion Control  \n• Protect pipes using approved coatings.  \n• Repair corroded sections immediately.  \n \n3. Emergency Response  \n• Provide emergency shut -off valves.  \n• Train building personnel on emergency shutdown and evacuation.  \n \n4. Suruhanjaya Tenaga (Energy Commission of Malaysia) Guidelines  \nKey Requirements for Maintenance:  \n1. Annual Inspection and Certification  \n• Engage a licensed gas contractor to conduct an annual inspection.  \n• Issue a certificate of compliance upon successful inspection.  \n 2. Pressure Testing  \n• Test pipelines at 1.5 times the operating pressure.  \n• Maintain pressure for at least 15 minutes without pressure drop.  \n \n3. Leak Detection  \n• Monitor gas flow using meters  and pressure sensors.  \n• Repair any identified leaks promptly.",
+  "token_count": 1227,
+  "metadata": {
+    "section_number": "5.13",
+    "section_title": "PIPELINE FOR GAS SUPPLY FOR COMMERCIAL BUILDING / \nAPARTMENT",
+    "category": "Process",
+    "regulations": [
+      "NFPA 54 – National Fuel Gas Code",
+      "MS 930 – Code of Practice for the Installation of Fuel Gas Piping Systems"
+    ],
+    "keywords": [
+      "damage",
+      "safety",
+      "corrosion",
+      "mechanical",
+      "risk",
+      "emergency",
+      "code",
+      "compliance",
+      "monitoring",
+      "regulation"
+    ],
+    "risk_type": "fire"
+  }
+}

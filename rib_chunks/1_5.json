@@ -1,0 +1,22 @@
+{
+  "id": "1.5",
+  "category": "Perils",
+  "title": "FLOOD MITIGATION MEASURE",
+  "content": "Section 1.5: FLOOD MITIGATION MEASURE\n\nOBSERVATION:\nThe factory recently experienced significant losses due to flooding, resulting in damage to \ncritical equipment, disruption of operations, potential health hazards, and financial losses. \nThe insured acknowledges the need for comprehensive flood mitigation measures to \nenhance the facility's resilience against future flooding events.\n\nRECOMMENDATION:\nTo mitigate flood risk, following recommendation are proposed:  \n \n- Elevate Critical Equipment: Install raised metal platforms to protect essential machinery \nand electrical control panels from floodwater damage.  \n \n- Improve Drainage Systems: Install flap water valves at drainage endpoints to ensure \nwater only flows outward, preventing backflow into the facility.  \n \n- Install Flood Water Alarm Systems: Implement early warning systems to detect rising \nwater levels and trigger emergency response plans.  \n \n- Construct Containment Systems: Build larger containment sum pits equipped with diesel \nsludge pumps for effective floodwater discharge.  \n \n- Build Protective Bund Walls: Erect bund walls around main switch rooms and substations \nto prevent floodwater intrusion.  \n \n- Install Flood Barriers and Gates: Utilize sandbags, automated flood gates, or other \nbarriers for enhanced protection against water ingress.  \n \n- Develop and Implement Flood Risk Management Plan (FRMP): Establish a \ncomprehensive plan that includes emergency response procedures, regular maintenance, \nand training for employees to ensure preparedness and minimize potential damage during \nflood events.\n\nREGULATION/GUIDELINE:\nStreet, Drainage and Building Act 1974 (Act 133):  Provides guidance on proper \ndrainage systems to mitigate flooding risks.  \n \nSection 58(44): The local authority may require the owner or occupier of any building or \nland on which is situated any drain, urinal, water -closet, sink, or bathroom to repair or \nrenew it or put it in proper order. If they fail to comply, the local authority may carry out the \nwork and recover the expenses . \n \nNote: this section Mandates owners or occupiers of buildings abutting private streets to \nclean and maintain their drainage systems .",
+  "token_count": 549,
+  "metadata": {
+    "section_number": "1.5",
+    "section_title": "FLOOD MITIGATION MEASURE",
+    "category": "Perils",
+    "regulations": [],
+    "keywords": [
+      "damage",
+      "risk",
+      "electrical",
+      "emergency",
+      "regulation",
+      "maintenance"
+    ],
+    "risk_type": "electrical"
+  }
+}
